@@ -1,29 +1,31 @@
 import { NextResponse } from "next/server"
-import { getOfferById, getOffersBySlug } from "@/lib/cpu-data"
+import { getOffersBySlug } from "@/lib/cpu-data"
+
+function generatePriceHistory(basePrice: number, days = 30) {
+  const history: { date: string; price: number }[] = []
+  let price = basePrice
+
+  for (let i = days - 1; i >= 0; i--) {
+    const d = new Date()
+    d.setDate(d.getDate() - i)
+
+    // Generate realistic price variation (±5-10% of base price)
+    const variation = (Math.random() - 0.5) * 0.15 * basePrice
+    price = Math.max(basePrice * 0.85, price * (1 + variation * 0.1))
+
+    history.push({
+      date: d.toISOString().slice(0, 10),
+      price: Math.round(price * 100) / 100,
+    })
+  }
+
+  return history
+}
 
 export async function GET(req: Request) {
   const { searchParams } = new URL(req.url)
   const slug = searchParams.get("slug")
-  const offerId = searchParams.get("offerId")
-  const vendorsParam = searchParams.get("vendors") // comma separated
-
-  if (offerId) {
-    const offer = getOfferById(offerId)
-    if (!offer) return NextResponse.json({ error: "Offer not found" }, { status: 404 })
-    return NextResponse.json({
-      kind: "single",
-      title: `${offer.brand} ${offer.series} ${offer.model} — ${offer.vendor}`,
-      slug: offer.slug,
-      vendor: offer.vendor,
-      series: [
-        {
-          vendor: offer.vendor,
-          brand: offer.brand,
-          data: offer.priceHistory,
-        },
-      ],
-    })
-  }
+  const vendorsParam = searchParams.get("vendors")
 
   if (slug) {
     let offers = getOffersBySlug(slug)
@@ -44,10 +46,10 @@ export async function GET(req: Request) {
       series: offers.map((o) => ({
         vendor: o.vendor,
         brand: o.brand,
-        data: o.priceHistory,
+        data: generatePriceHistory(o.priceUSD, 30),
       })),
     })
   }
 
-  return NextResponse.json({ error: "Provide ?slug= or ?offerId=" }, { status: 400 })
+  return NextResponse.json({ error: "Provide ?slug=" }, { status: 400 })
 }

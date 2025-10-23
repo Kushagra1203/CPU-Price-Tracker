@@ -1,0 +1,15 @@
+{
+  "cpus": [
+    {
+      "slug": "amd-ryzen-5-3500",
+      "name": "AMD Ryzen 5 3500",
+      "history": [
+        { "date": "2025-01-01", "vendor": "Elitehubs", "price": 12399 },
+        { "date": "2025-01-08", "vendor": "Elitehubs", "price": 12399 },
+        { "date": "2025-01-15", "vendor": "Elitehubs", "price": 12299 },
+        { "date": "2025-01-22", "vendor": "Elitehubs", "price": 12199 },
+        { "date": "2025-02-01", "vendor": "Elitehubs", "price": 12099 }
+      ]
+    }
+  ]
+}

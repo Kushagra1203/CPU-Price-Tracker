@@ -50,36 +50,47 @@ export function CPUTile({ offer }: { offer: CPUOffer }) {
       whileHover={{ y: -2 }}
     >
       <Card
-        className={`h-full bg-card border-border transition-all ring-1 ${brandRing} border-t-4`}
+        className={`h-full border-border transition-all ring-1 ${brandRing} border-t-4 rounded-xl backdrop-blur-sm`}
         style={{
           borderTopColor: vendorAccent,
-          boxShadow: `0 0 14px 0 ${vendorAccent}26`, // subtle vendor glow
+          backgroundColor: "transparent",
+          boxShadow: `
+            inset 0 1px 2px rgba(255, 255, 255, 0.08),
+            inset 0 -8px 16px rgba(0, 0, 0, 0.3),
+            inset 20px 20px 40px ${vendorAccent}0d,
+            inset 30px 30px 60px ${vendorAccent}08
+          `,
+          background: `
+            linear-gradient(135deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0.01) 50%, rgba(0, 0, 0, 0.05) 100%)
+          `,
         }}
       >
         <CardHeader className="pb-2">
-          <div className="flex items-start justify-between">
-            <div>
-              <h3 className="font-medium text-pretty">
-                {productSlug ? (
-                  <Link
-                    href={`/history?slug=${encodeURIComponent(productSlug)}`}
-                    className="hover:underline underline-offset-4"
-                    aria-label={`View price history for ${displayName}`}
-                  >
-                    {displayName}
-                  </Link>
-                ) : (
-                  <>{displayName}</>
-                )}
-              </h3>
-              <p className="text-xs text-muted-foreground">{shortGeneration((offer as any).generation || "")}</p>
-            </div>
-            <Badge variant="outline" className="uppercase" style={{ borderColor: vendorAccent, color: vendorAccent }}>
+          <div>
+            <h3 className="font-medium text-pretty">
+              {productSlug ? (
+                <Link
+                  href={`/history?slug=${encodeURIComponent(productSlug)}`}
+                  className="hover:underline underline-offset-4"
+                  aria-label={`View price history for ${displayName}`}
+                >
+                  {displayName}
+                </Link>
+              ) : (
+                <>{displayName}</>
+              )}
+            </h3>
+            <p className="text-xs text-muted-foreground">{shortGeneration((offer as any).generation || "")}</p>
+            <Badge
+              variant="outline"
+              className="w-fit uppercase mt-1"
+              style={{ borderColor: vendorAccent, color: vendorAccent }}
+            >
               {offer.vendor}
             </Badge>
           </div>
         </CardHeader>
-        <CardContent className="grid gap-2">
+        <CardContent className="grid gap-3">
           <div className="inline-flex w-fit items-center gap-2 rounded-md bg-primary/10 px-2 py-1">
             <span className="text-2xl font-semibold">
               {"₹"}

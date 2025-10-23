@@ -22,22 +22,24 @@ type Offer = {
 const fetcher = (url: string) => fetch(url).then((r) => r.json())
 
 export default function HistoryBrowser() {
-  const { data: cpus } = useSWR<{ offers: Offer[] }>("/api/cpus", fetcher)
+  const { data: response } = useSWR<{ cpus: any[] }>("/api/cpus", fetcher)
   const [slug, setSlug] = useState<string | undefined>(undefined)
   const products = useMemo(() => {
     const bySlug = new Map<string, { slug: string; label: string }>()
-    cpus?.offers.forEach((o) => {
-      const label = `${o.brand} ${o.series} ${o.model}`
-      if (!bySlug.has(o.slug)) bySlug.set(o.slug, { slug: o.slug, label })
+    response?.cpus?.forEach((cpu) => {
+      const label = `${cpu.brand} ${cpu.series} ${cpu.model}`
+      bySlug.set(cpu.id, { slug: cpu.id, label })
     })
     return Array.from(bySlug.values()).sort((a, b) => a.label.localeCompare(b.label))
-  }, [cpus])
+  }, [response])
 
   const vendorsForSelected = useMemo(() => {
-    if (!slug || !cpus?.offers) return []
-    const vendors = Array.from(new Set(cpus.offers.filter((o) => o.slug === slug).map((o) => o.vendor)))
-    return vendors.sort()
-  }, [cpus, slug])
+    if (!slug || !response?.cpus) return []
+    const cpu = response.cpus.find((c) => c.id === slug)
+    if (!cpu) return []
+    const vendors = cpu.offers.map((o: any) => o.store).sort()
+    return Array.from(new Set(vendors))
+  }, [response, slug])
 
   const [selectedVendors, setSelectedVendors] = useState<string[]>([])
   const toggleVendor = (v: string) =>

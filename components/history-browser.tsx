@@ -27,7 +27,7 @@ export default function HistoryBrowser() {
   const products = useMemo(() => {
     const bySlug = new Map<string, { slug: string; label: string }>()
     response?.cpus?.forEach((cpu) => {
-      const label = `${cpu.brand} ${cpu.series} ${cpu.model}`
+      const label = cpu.model || `${cpu.brand} ${cpu.series}`
       bySlug.set(cpu.id, { slug: cpu.id, label })
     })
     return Array.from(bySlug.values()).sort((a, b) => a.label.localeCompare(b.label))
@@ -44,6 +44,17 @@ export default function HistoryBrowser() {
   const [selectedVendors, setSelectedVendors] = useState<string[]>([])
   const toggleVendor = (v: string) =>
     setSelectedVendors((prev) => (prev.includes(v) ? prev.filter((x) => x !== v) : [...prev, v]))
+
+  const handleCpuSelect = (cpuSlug: string) => {
+    setSlug(cpuSlug)
+    if (!response?.cpus) return
+    const cpu = response.cpus.find((c) => c.id === cpuSlug)
+    if (cpu) {
+      const vendors = cpu.offers.map((o: any) => o.store).sort()
+      const uniqueVendors = Array.from(new Set(vendors))
+      setSelectedVendors(uniqueVendors)
+    }
+  }
 
   const vendorsQuery = selectedVendors.length ? `&vendors=${encodeURIComponent(selectedVendors.join(","))}` : ""
   const { data: history } = useSWR<{ kind: string; title: string; series: Series[] }>(
@@ -66,7 +77,7 @@ export default function HistoryBrowser() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="flex flex-col gap-2">
               <Label htmlFor="cpu">Product</Label>
-              <Select onValueChange={setSlug} value={slug}>
+              <Select onValueChange={handleCpuSelect} value={slug}>
                 <SelectTrigger id="cpu" className="bg-background">
                   <SelectValue placeholder="Select a CPU" />
                 </SelectTrigger>

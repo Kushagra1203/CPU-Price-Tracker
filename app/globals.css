@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@custom-variant dark (&:is(.dark *));
+
 :root {
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);
@@ -35,7 +37,6 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
-  /* define light beige for chart axis labels (used by /history) */
   --axis-beige: #fff1d0;
 }
 
@@ -72,8 +73,6 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(0.269 0 0);
   --sidebar-ring: oklch(0.439 0 0);
-  /* ensure same beige is used in dark mode */
-  --axis-beige: #fff1d0;
 }
 
 @theme inline {
@@ -125,15 +124,10 @@
   }
 }
 
-/* Optional: ensure Recharts axes pick up the token even if not set inline */
 .recharts-cartesian-axis .recharts-cartesian-axis-tick text {
-  /* use the axis label token for tick text */
   fill: var(--axis-beige);
 }
 
-/* Axis tick styling already uses the token; left here for clarity */
 .recharts-cartesian-axis .recharts-cartesian-axis-tick-value {
   fill: var(--axis-beige);
 }
-
-/* keep axis/grid/legend consistent with theme tokens */

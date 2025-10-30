@@ -1,11 +1,28 @@
 "use client"
 
 import { useMemo } from "react"
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts"
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts"
 import { getVendorColor } from "@/lib/vendor-colors" // use vendor color mapping
 
 export type PricePoint = { date: string; price: number }
 export type Series = { vendor: string; brand: string; data: PricePoint[] }
+
+const CustomTooltip = ({ active, payload, label }: any) => {
+  if (!active || !payload) return null
+  return (
+    <div className="bg-popover border border-border rounded-lg p-3 shadow-lg">
+      <p className="text-sm font-semibold text-foreground mb-2">{label}</p>
+      {payload.map((entry: any, idx: number) => (
+        <p key={idx} className="text-sm font-medium" style={{ color: entry.color }}>
+          {entry.name}: {formatINR(entry.value)}
+        </p>
+      ))}
+    </div>
+  )
+}
+
+const formatINR = (v: number) =>
+  `₹${new Intl.NumberFormat("en-IN", { maximumFractionDigits: 0 }).format(Number(v || 0))}`
 
 export function PriceHistoryChart({ series }: { series: Series[] }) {
   const data = useMemo(() => {
@@ -27,9 +44,6 @@ export function PriceHistoryChart({ series }: { series: Series[] }) {
       </div>
     )
   }
-
-  const formatINR = (v: number) =>
-    `₹${new Intl.NumberFormat("en-IN", { maximumFractionDigits: 0 }).format(Number(v || 0))}`
 
   const colorFor = (vendor: string) => getVendorColor(vendor)
 
@@ -55,18 +69,13 @@ export function PriceHistoryChart({ series }: { series: Series[] }) {
             tickFormatter={(v) => formatINR(Number(v))}
             width={70}
           />
-          <Tooltip
-            contentStyle={{ background: "hsl(var(--popover))", border: "1px solid hsl(var(--border))" }}
-            labelStyle={{ color: "hsl(var(--muted-foreground))" }}
-            itemStyle={{ color: "hsl(var(--foreground))" }}
-          />
-          <Legend wrapperStyle={{ color: "hsl(var(--muted-foreground))", fill: "hsl(var(--muted-foreground))" }} />
+          <Tooltip content={<CustomTooltip />} />
           {series.map((s) => (
             <Line
               key={s.vendor}
               type="monotone"
               dataKey={s.vendor}
-              stroke={getVendorColor(s.vendor)} // ensure vendor color applied to each line
+              stroke={getVendorColor(s.vendor)}
               strokeWidth={2}
               dot={false}
               activeDot={{ r: 4 }}

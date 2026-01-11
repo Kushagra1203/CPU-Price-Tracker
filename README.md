@@ -9,9 +9,7 @@ Track CPU prices from Indian e‑commerce retailers, store historical data, and 
 - Storage: MySQL stores normalized product and price data with timestamps.
 - Jobs: Run spiders on a schedule (cron/systemd/GitHub Actions) to keep prices fresh.
 
-### Supported spiders (9)
-
-These spiders live in `cpu_price_tracker/cpu_price_tracker/spiders/`:
+### Supported Websites (9)
 
 - elitehubs
 - ezpzsolutions
@@ -30,24 +28,6 @@ These spiders live in `cpu_price_tracker/cpu_price_tracker/spiders/`:
 - MySQL (mysql-connector-python)
 - Python 3.11 (virtualenv)
 - macOS/arm64 compatible (Apple Silicon)
-
-## Project structure
-
-```
-.
-├─ cpu_price_tracker/                # FastAPI app and Scrapy project root
-│  ├─ cpu_price_tracker/             # Scrapy project package (settings, spiders, pipelines)
-│  │  ├─ spiders/
-│  │  │  └─ mdcomputers_spider.py
-│  │  ├─ pipelines.py
-│  │  └─ settings.py
-│  └─ app/                           # FastAPI application (suggested)
-│     └─ main.py
-├─ virtual_enviornment/              # Python 3.11 virtualenv (note the name)
-└─ README.md
-```
-
-If your FastAPI app lives elsewhere, adjust paths/commands below accordingly.
 
 ## Prerequisites
 
@@ -202,26 +182,6 @@ ruff check .
 black .
 pytest -q
 ```
-
-## Troubleshooting (macOS)
-
-- lxml build errors during install:
-  - Install system libs and ensure wheel is available:
-    ```bash
-    brew install libxml2 libxslt
-    export XML2_CONFIG=$(brew --prefix libxml2)/bin/xml2-config
-    export XSLT_CONFIG=$(brew --prefix libxslt)/bin/xslt-config
-    pip install --upgrade pip wheel
-    pip install lxml
-    ```
-- Using wrong Python/Scrapy (Anaconda vs venv):
-  - Activate venv: `source virtual_enviornment/bin/activate`
-  - Verify: `which python` should point to `.../virtual_enviornment/bin/python`
-  - Verify: `which scrapy` should point to `.../virtual_enviornment/bin/scrapy`
-- MySQL connector not found:
-  - Install in venv: `pip install mysql-connector-python`
-- SSL errors scraping:
-  - Update certs: `pip install certifi` and/or ensure OpenSSL updated
 
 ## Security and ethics
 

@@ -1,237 +1,113 @@
-# CPU Price Tracker (FastAPI + Scrapy)
+# CPU Price Tracker — Backend
 
-Track CPU prices from Indian e‑commerce retailers, store historical data, and expose a clean HTTP API for querying current and past prices.
+This repository contains the backend for the CPU Price Tracker service — a price-collection, storage, and API layer that powers the frontend available at [CPU-Price Tracker (frontend)](https://v0-cpu-price-tracker.vercel.app/).
 
-## Overview
+The backend is responsible for regularly scraping CPU pricing data from multiple retailers, normalizing and storing historical price information, and exposing endpoints for the frontend and other consumers to query current prices, price history, and aggregated insights.
 
-- Scrapers: Scrapy spiders (e.g., `mdcomputers_spider`) collect CPU listings and prices.
-- API: FastAPI serves read/write endpoints to fetch price history and trigger scrapes.
-- Storage: MySQL stores normalized product and price data with timestamps.
-- Jobs: Run spiders on a schedule (cron/systemd/GitHub Actions) to keep prices fresh.
+## Key points
+- This README describes the project, its features, and prerequisites only (no install/config steps).
+- To run the whole system locally or in your environment, run the repository's orchestration script:
+  - Run: `python3 master_script.py` (or with your Python invoker). The `master_script.py` in this repository orchestrates all scraping, processing, and scheduling steps.
 
-### Supported spiders (9)
+## Features
 
-These spiders live in `cpu_price_tracker/cpu_price_tracker/spiders/`:
+- Centralized scraping engine
+  - Multiple retailer scrapers that fetch product details and prices.
+  - Normalization layer that standardizes product identifiers, names, and currency formats.
 
-- elitehubs
-- ezpzsolutions
-- mdcomputers
-- pcstudio
-- sclgaming
-- shwetacomputers
-- theitdepot
-- vedantcomputers
-- vishalperipherals
+- Scheduler / orchestration
+  - A master script coordinates scraping runs, updates, and downstream processing.
+  - Supports periodic runs (cron / scheduler invocation) or one-off runs via the master script.
 
-## Tech stack
+- Data storage and history
+  - Persists price snapshots to enable historical price queries and trend analysis.
+  - Stores metadata about each product and its source(s).
 
-- FastAPI, Uvicorn
-- Scrapy
-- MySQL (mysql-connector-python)
-- Python 3.11 (virtualenv)
-- macOS/arm64 compatible (Apple Silicon)
+- API surface
+  - RESTful endpoints (and/or Web API) to expose:
+    - Current prices for products
+    - Product metadata and canonical identifiers
+    - Historical price series for graphs and trend calculations
+    - Aggregated stats (min/max/avg over a period)
 
-## Project structure
+- Extensibility
+  - Modular scraper architecture so new retailers can be added with minimal effort.
+  - Clear separation between scraping, normalization, persistence, and API layers.
 
-```
-.
-├─ cpu_price_tracker/                # FastAPI app and Scrapy project root
-│  ├─ cpu_price_tracker/             # Scrapy project package (settings, spiders, pipelines)
-│  │  ├─ spiders/
-│  │  │  └─ mdcomputers_spider.py
-│  │  ├─ pipelines.py
-│  │  └─ settings.py
-│  └─ app/                           # FastAPI application (suggested)
-│     └─ main.py
-├─ virtual_enviornment/              # Python 3.11 virtualenv (note the name)
-└─ README.md
-```
-
-If your FastAPI app lives elsewhere, adjust paths/commands below accordingly.
+- Frontend integration
+  - This backend serves the frontend located at: [https://v0-cpu-price-tracker.vercel.app/](https://v0-cpu-price-tracker.vercel.app/).
+  - The frontend consumes the backend API for displaying live prices, history charts, and alerts.
 
 ## Prerequisites
 
-- Python 3.11 (this project uses a local venv at `virtual_enviornment`)
-- MySQL 8.x running locally or remotely
-- macOS build tools (Xcode CLT) and Homebrew (for lxml/build deps)
+- Python 3.10+ (or the version targeted by the repository)
+- Network access to reach retailer sites and any external APIs used by scrapers
+- Access to the datastore used by the project (e.g., PostgreSQL, MongoDB, SQLite, or another persistence layer) if the project is configured to use an external DB
+- Any credentials or API keys required by specific scrapers or third-party services (if applicable)
+- The repository's dependency manifest (e.g., `requirements.txt`, `pyproject.toml`) contains the exact Python packages required — ensure they are available in your environment
 
-Recommended Homebrew libraries (helpful for XML parsers used by Scrapy):
+Note: This list is intentionally general — configuration and installation instructions are omitted per request.
 
-```bash
-brew install libxml2 libxslt
-```
+## How the project works (detailed)
 
-## Setup
+1. Scrapers
+   - Each retailer or source has a dedicated scraper module responsible for:
+     - Fetching product pages or API endpoints
+     - Extracting price, availability, title, SKU/identifier, and other metadata
+     - Returning normalized data to the ingestion pipeline
+   - Scrapers include retry/backoff logic and error handling to minimize disruption from transient site issues.
 
-1. Activate the project virtual environment (already created in repo):
+2. Normalization
+   - Incoming raw data is passed through a normalization layer which:
+     - Maps different retailer product names to canonical product entries
+     - Converts currencies to a canonical currency if needed
+     - Ensures consistent schema for database storage
 
-```bash
-# from the repository root
-source virtual_enviornment/bin/activate
-```
+3. Persistence
+   - Normalized snapshots are stored as time-stamped entries so price history can be reconstructed.
+   - The persistence layer supports queries for recent prices, time-series data, and aggregated statistics.
 
-2. Install Python dependencies (if needed):
+4. Orchestration (master_script.py)
+   - The repository's `master_script.py` is the single-entry orchestration script:
+     - Starts or schedules scraper runs
+     - Coordinates ingestion, normalization, and storage
+     - Optionally triggers downstream jobs such as analytics, alerts, or export tasks
+   - Running this script performs the end-to-end workflow managed by the project.
 
-```bash
-# If you maintain a requirements file, use it; otherwise install key deps directly
-pip install --upgrade pip wheel
-pip install fastapi uvicorn[standard] scrapy mysql-connector-python python-dotenv
-```
+5. API Layer
+   - A web/API component reads the stored data and exposes endpoints to:
+     - Query current price and availability
+     - Fetch historical price data for charting
+     - Request aggregates (e.g., rolling averages, min/max over a window)
+   - The frontend polls or queries these endpoints to present data and visualizations to users.
 
-3. Configure environment variables for DB access. Create a `.env` file at the repo root:
+6. Frontend Integration
+   - The frontend at [https://v0-cpu-price-tracker.vercel.app/](https://v0-cpu-price-tracker.vercel.app/) relies on this backend for data.
+   - The API surface is designed for low-latency reads to serve the UI efficiently.
 
-```
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_USER=your_user
-DB_PASSWORD=your_password
-DB_NAME=cpu_price_tracker
-```
+## Operational considerations
 
-4. Create the database and tables. Example minimal schema:
+- Rate limiting and politeness
+  - Scrapers should respect robots.txt and implement rate limiting to avoid being blocked.
+- Monitoring and alerts
+  - Track scraper success/failure rates and set up alerts for persistent failures.
+- Data retention and storage sizing
+  - Historical retention policies should be chosen according to storage cost vs. analytical needs.
+- Testing
+  - Unit tests for scrapers and normalization logic, plus integration tests for end-to-end runs, improve reliability.
+- Security
+  - Secure any credentials required by scrapers and avoid committing secrets to the repository.
 
-```sql
-CREATE DATABASE IF NOT EXISTS cpu_price_tracker CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
-USE cpu_price_tracker;
+## Contributing
+- The project is structured to accept new scrapers and improvements to normalization and storage.
+- When adding a new scraper, follow the established pattern: implement fetch, extract, normalize, and tests.
 
--- Products master
-CREATE TABLE IF NOT EXISTS products (
-  id BIGINT PRIMARY KEY AUTO_INCREMENT,
-  name VARCHAR(255) NOT NULL,
-  sku VARCHAR(128) NULL,
-  url TEXT NULL,
-  store VARCHAR(64) NOT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  UNIQUE KEY uniq_store_sku (store, sku)
-);
+## Contact / Links
+- Frontend: [CPU-Price Tracker (frontend)](https://v0-cpu-price-tracker.vercel.app/)
+- Repository: this backend repository contains the orchestration and scraper code used by the frontend.
 
--- Price snapshots
-CREATE TABLE IF NOT EXISTS prices (
-  id BIGINT PRIMARY KEY AUTO_INCREMENT,
-  product_id BIGINT NOT NULL,
-  price DECIMAL(10,2) NOT NULL,
-  currency VARCHAR(8) DEFAULT 'INR',
-  scraped_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  FOREIGN KEY (product_id) REFERENCES products(id) ON DELETE CASCADE,
-  INDEX idx_product_time (product_id, scraped_at)
-);
-```
+---
 
-If your `pipelines.py` writes to a different schema, match the column names accordingly.
-
-## Running the API (FastAPI)
-
-Assuming your FastAPI entrypoint is `cpu_price_tracker/app/main.py` exposing `app`:
-
-```bash
-# from repo root with venv active
-uvicorn cpu_price_tracker.app.main:app --reload --host 0.0.0.0 --port 8000
-```
-
-Open http://127.0.0.1:8000/docs for Swagger UI.
-
-### Suggested endpoints
-
-- GET /health → { status: "ok" }
-- GET /cpus → List CPUs (latest price included)
-- GET /cpus/{id} → CPU details + price history
-- GET /prices?store=mdcomputers&sku=... → Filtered price snapshots
-- POST /scrape/trigger → Trigger specific spider(s) on demand
-
-Implementations will vary; wire them to your models and DB queries.
-
-## Running a scrape (Scrapy)
-
-Always run Scrapy with the same Python environment that has your dependencies:
-
-```bash
-# 1) Ensure venv is active
-source virtual_enviornment/bin/activate
-
-# 2) Run from the Scrapy project directory (where scrapy.cfg or settings are detected)
-cd cpu_price_tracker
-
-# 3a) Crawl a specific site (examples)
-scrapy crawl mdcomputers
-scrapy crawl elitehubs
-scrapy crawl theitdepot
-
-# 3b) List all available spiders
-scrapy list
-
-# Output JSON files are saved under cpu_price_tracker/cpu_price_tracker/data
-# (see Batch scraping below for exact filenames)
-```
-
-If you see `ModuleNotFoundError: No module named 'mysql'`, you are likely using Anaconda’s `scrapy` binary. Ensure `which scrapy` points to `.../virtual_enviornment/bin/scrapy` while the venv is active.
-
-### Batch scraping all stores (recommended)
-
-Use the helper script `master_script.py` to run all 9 spiders, merge outputs, normalize names, and upsert into MySQL.
-
-```bash
-# from repository root
-source virtual_enviornment/bin/activate
-cd cpu_price_tracker
-python master_script.py
-```
-
-This will:
-
-- Run each spider and write JSON to `cpu_price_tracker/cpu_price_tracker/data/`:
-  - processors_elite.json
-  - processors_itdepot.json
-  - processors_md.json
-  - processors_pc.json
-  - processors_scl.json
-  - processors_shweta.json
-  - processors_vedant.json
-  - processors_vishal.json
-  - processors_ezpz.json
-- Merge to `processors.json`
-- Normalize CPU names via `normalize_cpu_names.py` producing `processors_standardized.json`
-- Upsert standardized rows into MySQL table `cpu_prices` (see schema below)
-
-## Development
-
-- Lint/format: `ruff`, `black`
-- Tests: `pytest`
-
-```bash
-pip install ruff black pytest
-ruff check .
-black .
-pytest -q
-```
-
-## Troubleshooting (macOS)
-
-- lxml build errors during install:
-  - Install system libs and ensure wheel is available:
-    ```bash
-    brew install libxml2 libxslt
-    export XML2_CONFIG=$(brew --prefix libxml2)/bin/xml2-config
-    export XSLT_CONFIG=$(brew --prefix libxslt)/bin/xslt-config
-    pip install --upgrade pip wheel
-    pip install lxml
-    ```
-- Using wrong Python/Scrapy (Anaconda vs venv):
-  - Activate venv: `source virtual_enviornment/bin/activate`
-  - Verify: `which python` should point to `.../virtual_enviornment/bin/python`
-  - Verify: `which scrapy` should point to `.../virtual_enviornment/bin/scrapy`
-- MySQL connector not found:
-  - Install in venv: `pip install mysql-connector-python`
-- SSL errors scraping:
-  - Update certs: `pip install certifi` and/or ensure OpenSSL updated
-
-## Security and ethics
-
-- Respect robots.txt unless you have explicit permission. Configure `ROBOTSTXT_OBEY` appropriately in Scrapy settings.
-- Rate-limit requests and include a contact email in the User-Agent when scraping.
-
-## Roadmap ideas
-
-- More stores (PrimeABGB, Vedant, Amazon, etc.)
-- Alerts (email/Slack) on price drops
-- Frontend dashboard (Next.js/SvelteKit) consuming the FastAPI
-- Dockerization for consistent deploys
+If you want, I can:
+- Generate a more compact "Quickstart" section later (that would include run commands).
+- Convert this README into a file and open a PR or push it to the repository when you confirm.

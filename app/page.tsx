@@ -20,7 +20,7 @@ export default function Page() {
 
       <footer className="border-t">
         <div className="mx-auto max-w-6xl px-4 py-6 text-sm text-muted-foreground">
-          Demo data shown. Plug real sources into the API adapter.
+          Live prices from the daily data pipeline — refreshed automatically every day.
         </div>
       </footer>
     </main>

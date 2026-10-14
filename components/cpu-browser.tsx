@@ -1,7 +1,7 @@
 "use client"
 
 import useSWR from "swr"
-import { useMemo, useState, useEffect } from "react"
+import { useMemo, useState, useEffect, useRef, useDeferredValue } from "react"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
@@ -39,6 +39,8 @@ type ApiResponse = {
 }
 
 const fetcher = (url: string) => fetch(url).then((r) => r.json())
+
+const PAGE_SIZE = 24
 
 export type CPUOffer = {
   id: string
@@ -140,12 +142,18 @@ export function CpuBrowser() {
   const [sort, setSort] = useState<string>("price-asc")
   const [filtersOpen, setFiltersOpen] = useState(true)
 
+  // pagination: render only a page of tiles at a time (infinite scroll)
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
+  const sentinelRef = useRef<HTMLDivElement | null>(null)
+
+  // defer search filtering so typing stays responsive
+  const deferredSearch = useDeferredValue(filters.search)
+
   const filtered = useMemo(() => {
     let arr = offers.slice()
 
     const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "")
-    const qRaw = filters.search.trim()
-    const q = norm(qRaw)
+    const q = norm(deferredSearch.trim())
     if (q) {
       arr = arr.filter((o) => {
         const fields = [
@@ -192,7 +200,30 @@ export function CpuBrowser() {
     })
 
     return arr
-  }, [offers, filters, sort])
+  }, [offers, filters, deferredSearch, sort])
+
+  // reset pagination whenever the filter/sort universe changes
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE)
+  }, [filters, sort])
+
+  const visibleOffers = useMemo(() => filtered.slice(0, visibleCount), [filtered, visibleCount])
+
+  // infinite scroll sentinel
+  useEffect(() => {
+    const el = sentinelRef.current
+    if (!el) return
+    const io = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setVisibleCount((c) => (c < filtered.length ? c + PAGE_SIZE : c))
+        }
+      },
+      { rootMargin: "600px 0px" },
+    )
+    io.observe(el)
+    return () => io.disconnect()
+  }, [filtered.length, visibleCount < filtered.length])
 
   const resetAll = () =>
     setFilters({
@@ -211,12 +242,6 @@ export function CpuBrowser() {
       cores: [],
       threads: [],
     })
-
-  useEffect(() => {
-    if (typeof window !== "undefined") {
-      window.scrollTo({ top: 0, behavior: "smooth" })
-    }
-  }, [filters.search])
 
   return (
     <div className="flex flex-col gap-4 md:flex-row md:items-start">
@@ -250,7 +275,20 @@ export function CpuBrowser() {
           </div>
         </Card>
 
-        <CPUTileGrid key={`${filters.search}|${sort}`} offers={filtered} />
+        <CPUTileGrid key={`${filters.search}|${sort}`} offers={visibleOffers} />
+
+        <div ref={sentinelRef} />
+
+        {visibleCount < filtered.length && (
+          <div className="flex justify-center py-2">
+            <Button variant="outline" onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}>
+              Load more ({filtered.length - visibleCount} remaining)
+            </Button>
+          </div>
+        )}
+        <p className="text-xs text-muted-foreground text-center">
+          Showing {Math.min(visibleCount, filtered.length)} of {filtered.length} offers
+        </p>
 
         {data?.updatedAt && (
           <div className="text-xs text-muted-foreground flex items-center gap-2">

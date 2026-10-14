@@ -4,7 +4,6 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import type { CPUOffer } from "@/lib/cpu-data"
-import { motion } from "framer-motion"
 import Link from "next/link"
 import { getVendorColor } from "@/lib/vendor-colors" // vendor color helper
 
@@ -43,11 +42,8 @@ export function CPUTile({ offer }: { offer: CPUOffer }) {
   const displayName = titleCase(offer.model)
 
   return (
-    <motion.article
-      initial={{ opacity: 0, scale: 0.98 }}
-      animate={{ opacity: 1, scale: 1 }}
-      transition={{ duration: 0.2, ease: "easeOut" }}
-      whileHover={{ y: -2 }}
+    <article
+      className="transition-transform duration-150 hover:-translate-y-0.5"
     >
       <Card
         className={`h-full border-border transition-all ring-1 ${brandRing} border-t-4 rounded-xl backdrop-blur-sm`}
@@ -154,6 +150,6 @@ export function CPUTile({ offer }: { offer: CPUOffer }) {
           </div>
         </CardFooter>
       </Card>
-    </motion.article>
+    </article>
   )
 }

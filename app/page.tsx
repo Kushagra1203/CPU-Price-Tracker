@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <main className="min-h-dvh bg-background">
       <header className="border-b">
-        <div className="mx-auto max-w-6xl px-4 py-8">
+        <div className="mx-auto max-w-7xl px-4 py-8">
           <div className="flex flex-col gap-2">
             <h1 className="text-3xl font-semibold tracking-tight text-balance">Browse CPU Deals</h1>
             <p className="text-muted-foreground text-pretty">
@@ -14,12 +14,12 @@ export default function Page() {
         </div>
       </header>
 
-      <section className="mx-auto max-w-6xl px-4 py-6">
+      <section className="mx-auto max-w-7xl px-4 py-6">
         <CpuBrowser />
       </section>
 
       <footer className="border-t">
-        <div className="mx-auto max-w-6xl px-4 py-6 text-sm text-muted-foreground">
+        <div className="mx-auto max-w-7xl px-4 py-6 text-sm text-muted-foreground">
           Live prices from the daily data pipeline — refreshed automatically every day.
         </div>
       </footer>

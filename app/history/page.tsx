@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function HistoryPage() {
   return (
-    <main className="mx-auto max-w-5xl px-4 py-8 space-y-6">
+    <main className="mx-auto max-w-7xl px-4 py-8 space-y-6">
       <header className="flex items-center justify-between">
         <h1 className="text-2xl font-semibold text-pretty">CPU Price History</h1>
       </header>

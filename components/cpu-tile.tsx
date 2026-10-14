@@ -46,7 +46,7 @@ export function CPUTile({ offer }: { offer: CPUOffer }) {
       className="transition-transform duration-150 hover:-translate-y-0.5"
     >
       <Card
-        className={`h-full border-border transition-all ring-1 ${brandRing} border-t-4 rounded-xl backdrop-blur-sm`}
+        className={`h-full border-border transition-transform duration-150 ring-1 ${brandRing} border-t-4 rounded-xl`}
         style={{
           borderTopColor: vendorAccent,
           backgroundColor: "transparent",

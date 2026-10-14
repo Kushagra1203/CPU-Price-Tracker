@@ -5248,5 +5248,47 @@
   "threads": 12,
   "base_clock_ghz": 3.0,
   "tdp_watt": 45
+ },
+ {
+  "name": "intel core ultra 9 285k",
+  "link": "https://vishalperipherals.com/collections/processors/products/intel-core-ultra-9-285k-processor",
+  "price": 60200,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "intel core ultra 9 285k",
+  "brand": "Intel",
+  "generation": "Intel Ultra Generation",
+  "series": "Intel Core Ultra 9",
+  "cores": 24,
+  "threads": 32,
+  "base_clock_ghz": 3.5,
+  "tdp_watt": 125
+ },
+ {
+  "name": "intel core i3 14100f",
+  "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i3-14100f-desktop-processor",
+  "price": 10400,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "intel core i3 14100f",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i3",
+  "cores": 4,
+  "threads": 8,
+  "base_clock_ghz": 3.5,
+  "tdp_watt": 58
+ },
+ {
+  "name": "amd ryzen 7 9850x3d",
+  "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-9850x3d-processor-with-radeon-graphics",
+  "price": 52200,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "amd ryzen 7 9850x3d",
+  "brand": "AMD",
+  "generation": "AMD 9th Generation",
+  "series": "Ryzen 7",
+  "cores": 8,
+  "threads": 16,
+  "base_clock_ghz": 4.7,
+  "tdp_watt": 120
  }
 ]

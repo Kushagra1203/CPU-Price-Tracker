@@ -1,4 +1,5 @@
 import processorsData from "@/data/processors.json"
+import priceHistoryData from "@/data/price-history.json"
 
 type Offer = {
   store: string
@@ -51,6 +52,26 @@ function toStoreSlug(store: string) {
 
 function offerIdFor(cpuId: string, store: string) {
   return `${cpuId}__${toStoreSlug(store)}`
+}
+
+// Real price history exported from the backend MySQL pipeline (see backend
+// repo: export_website_json.py). Keyed by `${slug}|${vendor}`.
+type HistoryPoint = { date: string; price: number }
+const realPriceHistory = new Map<string, HistoryPoint[]>()
+for (const cpu of (priceHistoryData as { cpus: { slug: string; history: { date: string; vendor: string; price: number }[] }[] }).cpus) {
+  const byVendor = new Map<string, HistoryPoint[]>()
+  for (const h of cpu.history) {
+    const arr = byVendor.get(h.vendor) ?? []
+    arr.push({ date: h.date, price: h.price })
+    byVendor.set(h.vendor, arr)
+  }
+  for (const [vendor, points] of byVendor) {
+    realPriceHistory.set(`${cpu.slug}|${vendor}`, points)
+  }
+}
+
+function historyFor(cpuId: string, vendor: string, base: number): HistoryPoint[] {
+  return realPriceHistory.get(`${cpuId}|${vendor}`) ?? mockPriceHistory(base, 30)
 }
 
 function mockPriceHistory(base: number, days = 30) {
@@ -115,7 +136,7 @@ export function getOffersBySlug(slug: string) {
     vendor: o.store,
     url: o.url,
     inStock: o.inStock,
-    priceHistory: mockPriceHistory(o.price, 30),
+    priceHistory: historyFor(cpu.id, o.store, o.price),
   }))
 }
 
@@ -134,7 +155,7 @@ export function getOfferById(offerId: string) {
     vendor: match.store,
     url: match.url,
     inStock: match.inStock,
-    priceHistory: mockPriceHistory(match.price, 30),
+    priceHistory: historyFor(slug, match.store, match.price),
   }
 }
 

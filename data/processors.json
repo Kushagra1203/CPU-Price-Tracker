@@ -380,7 +380,7 @@
  {
   "name": "amd ryzen 5 5600",
   "link": "https://www.theitdepot.com/Processor/amd_ryzen_5_5600_3.5ghz_processor",
-  "price": 12999,
+  "price": 13879,
   "vendor": "The IT Depot",
   "standard_name": "amd ryzen 5 5600",
   "brand": "AMD",
@@ -1696,7 +1696,7 @@
  {
   "name": "intel core i7 14700k",
   "link": "https://mdcomputers.in/product/intel-i7-14700k-bx8071514700k-desktop-processor/processor?page=3",
-  "price": 45000,
+  "price": 44150,
   "vendor": "MDComputers",
   "standard_name": "intel core i7 14700k",
   "brand": "Intel",
@@ -2172,7 +2172,7 @@
  {
   "name": "amd ryzen 5 5600",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-5-5600-processor-100-100000927box?limit=100",
-  "price": 12990,
+  "price": 13200,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 5 5600",
   "brand": "AMD",
@@ -3040,7 +3040,7 @@
  {
   "name": "intel core i7 14700k",
   "link": "https://www.ezpzsolutions.in/intel-core-i7-14700k/",
-  "price": 46069,
+  "price": 44949,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i7 14700k",
   "brand": "Intel",
@@ -3054,7 +3054,7 @@
  {
   "name": "intel core i9 14900kf",
   "link": "https://www.ezpzsolutions.in/intel-core-i9-14900kf/",
-  "price": 47469,
+  "price": 46849,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i9 14900kf",
   "brand": "Intel",
@@ -3082,7 +3082,7 @@
  {
   "name": "amd ryzen 5 8600g",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-5-8600g-processor/",
-  "price": 20469,
+  "price": 19949,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 5 8600g",
   "brand": "AMD",
@@ -3124,7 +3124,7 @@
  {
   "name": "intel core i7 14700f",
   "link": "https://www.ezpzsolutions.in/intel-core-i7-14700f-processor/",
-  "price": 34269,
+  "price": 33949,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i7 14700f",
   "brand": "Intel",
@@ -3138,7 +3138,7 @@
  {
   "name": "amd ryzen 5 5600gt",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-5-5600gt-processor/",
-  "price": 16849,
+  "price": 19249,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 5 5600gt",
   "brand": "AMD",
@@ -3166,7 +3166,7 @@
  {
   "name": "amd ryzen 7 9700x",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-7-9700x-processor/",
-  "price": 29369,
+  "price": 29169,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 7 9700x",
   "brand": "AMD",
@@ -3180,7 +3180,7 @@
  {
   "name": "amd ryzen 5 9600x",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-5-9600x-processor/",
-  "price": 21269,
+  "price": 20769,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 5 9600x",
   "brand": "AMD",
@@ -3194,7 +3194,7 @@
  {
   "name": "amd ryzen 9 9900x",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-9-9900x-processor/",
-  "price": 40969,
+  "price": 40149,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 9 9900x",
   "brand": "AMD",
@@ -3208,7 +3208,7 @@
  {
   "name": "intel core ultra 5 245k",
   "link": "https://www.ezpzsolutions.in/intel-core-ultra-5-245k-processor/",
-  "price": 22219,
+  "price": 21849,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core ultra 5 245k",
   "brand": "Intel",
@@ -3250,7 +3250,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-7-9800x3d-processor/",
-  "price": 48469,
+  "price": 47969,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -3278,7 +3278,7 @@
  {
   "name": "amd ryzen 9 9950x3d",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-9-9950x3d-processor/",
-  "price": 72049,
+  "price": 71199,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 9 9950x3d",
   "brand": "AMD",
@@ -3292,7 +3292,7 @@
  {
   "name": "intel core i5 14400f",
   "link": "https://www.ezpzsolutions.in/intel-core-i5-14400f-processor/",
-  "price": 17069,
+  "price": 16969,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i5 14400f",
   "brand": "Intel",
@@ -3306,7 +3306,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://www.ezpzsolutions.in/intel-core-i5-14400-processor/",
-  "price": 23569,
+  "price": 22949,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -3320,7 +3320,7 @@
  {
   "name": "intel core ultra 5 225f",
   "link": "https://www.ezpzsolutions.in/intel-core-ultra-5-225f/",
-  "price": 13969,
+  "price": 13449,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core ultra 5 225f",
   "brand": "Intel",
@@ -3348,7 +3348,7 @@
  {
   "name": "intel core i9 14900ks",
   "link": "https://www.ezpzsolutions.in/intel-core-i9-14900ks-processor/",
-  "price": 80199,
+  "price": 79949,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i9 14900ks",
   "brand": "Intel",
@@ -4062,7 +4062,7 @@
  {
   "name": "amd ryzen 5 5600gt",
   "link": "https://www.pcstudio.in/product/amd-ryzen-5-5600gt-processor-with-radeon-graphics/",
-  "price": 18000,
+  "price": 19250,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 5 5600gt",
   "brand": "AMD",
@@ -4356,7 +4356,7 @@
  {
   "name": "amd ryzen 5 5600",
   "link": "https://www.pcstudio.in/product/amd-ryzen-5-5600-desktop-processor-up-to-3-5ghz/",
-  "price": 13590,
+  "price": 14100,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 5 5600",
   "brand": "AMD",
@@ -4692,7 +4692,7 @@
  {
   "name": "intel core ultra 5 250kf",
   "link": "https://mdcomputers.in/product/intel-ultra-5-250kf-plus-bx80768250kf-desktop-processor/processor?page=2",
-  "price": 24000,
+  "price": 23299,
   "vendor": "MDComputers",
   "standard_name": "intel core ultra 5 250kf",
   "brand": "Intel",
@@ -4986,7 +4986,7 @@
  {
   "name": "amd ryzen 9 9950x3d2",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-9-9950x3d2-processor/",
-  "price": 97569,
+  "price": 97559,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 9 9950x3d2",
   "brand": "AMD",
@@ -5028,7 +5028,7 @@
  {
   "name": "intel core ultra 5 250kf",
   "link": "https://www.ezpzsolutions.in/intel-core-ultra-5-250kf-plus-processor/",
-  "price": 25949,
+  "price": 23969,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core ultra 5 250kf",
   "brand": "Intel",
@@ -5042,7 +5042,7 @@
  {
   "name": "intel core ultra 5 250k",
   "link": "https://www.ezpzsolutions.in/intel-core-ultra-5-250k-plus-processor/",
-  "price": 26949,
+  "price": 25069,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core ultra 5 250k",
   "brand": "Intel",
@@ -5056,7 +5056,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://www.ezpzsolutions.in/intel-core-ultra-7-270k-plus-processor/",
-  "price": 38169,
+  "price": 36769,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5070,7 +5070,7 @@
  {
   "name": "intel core ultra 5 235",
   "link": "https://www.ezpzsolutions.in/intel-core-ultra-5-235-processor/",
-  "price": 23569,
+  "price": 24049,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core ultra 5 235",
   "brand": "Intel",
@@ -5238,7 +5238,7 @@
  {
   "name": "intel core ultra 5 225",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-5-225-bx80768225?limit=100",
-  "price": 19900,
+  "price": 19890,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 5 225",
   "brand": "Intel",
@@ -5290,5 +5290,47 @@
   "threads": 16,
   "base_clock_ghz": 4.7,
   "tdp_watt": 120
+ },
+ {
+  "name": "intel core i5 14400",
+  "link": "https://mdcomputers.in/product/intel-i5-14400-oem-processor/processor?page=1",
+  "price": 17500,
+  "vendor": "MDComputers",
+  "standard_name": "intel core i5 14400",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i5",
+  "cores": 10,
+  "threads": 16,
+  "base_clock_ghz": 2.5,
+  "tdp_watt": 65
+ },
+ {
+  "name": "amd ryzen 5 5600gt",
+  "link": "https://mdcomputers.in/product/amd-ryzen-5-5600gt-100-100001488box-desktop-processor/processor?page=2",
+  "price": 19300,
+  "vendor": "MDComputers",
+  "standard_name": "amd ryzen 5 5600gt",
+  "brand": "AMD",
+  "generation": "AMD 5th Generation",
+  "series": "Ryzen 5",
+  "cores": 6,
+  "threads": 12,
+  "base_clock_ghz": 3.6,
+  "tdp_watt": 65
+ },
+ {
+  "name": "intel core i7 12700kf",
+  "link": "https://mdcomputers.in/product/intel-i7-12700kf-bx8071512700kf-desktop-processor/processor?page=3",
+  "price": 31800,
+  "vendor": "MDComputers",
+  "standard_name": "intel core i7 12700kf",
+  "brand": "Intel",
+  "generation": "Intel 12th Generation",
+  "series": "Intel Core i7",
+  "cores": 12,
+  "threads": 20,
+  "base_clock_ghz": 3.6,
+  "tdp_watt": 125
  }
 ]

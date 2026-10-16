@@ -240,7 +240,7 @@
  {
   "name": "amd ryzen 5 5500",
   "link": "https://elitehubs.com/products/amd-ryzen-5-5500-processor",
-  "price": 9745,
+  "price": 10395,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 5 5500",
   "brand": "AMD",
@@ -1234,7 +1234,7 @@
  {
   "name": "intel core i3 14100",
   "link": "https://mdcomputers.in/product/intel-i3-14100-bx8071514100-desktop-processor/processor?page=1",
-  "price": 16900,
+  "price": 14450,
   "vendor": "MDComputers",
   "standard_name": "intel core i3 14100",
   "brand": "Intel",
@@ -1262,7 +1262,7 @@
  {
   "name": "intel core i3 12100",
   "link": "https://mdcomputers.in/product/intel-i3-12100-bx8071512100-desktop-processor/processor?page=1",
-  "price": 17300,
+  "price": 14200,
   "vendor": "MDComputers",
   "standard_name": "intel core i3 12100",
   "brand": "Intel",
@@ -1990,7 +1990,7 @@
  {
   "name": "intel core i5 14600k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i5-processor-14600k-bx8071514600k?limit=100",
-  "price": 32700,
+  "price": 31400,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i5 14600k",
   "brand": "Intel",
@@ -2032,7 +2032,7 @@
  {
   "name": "intel core i7 14700k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i7-processor-14700k-bx8071514700k?limit=100",
-  "price": 44990,
+  "price": 44590,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i7 14700k",
   "brand": "Intel",
@@ -4930,7 +4930,7 @@
  {
   "name": "intel core ultra 5 250k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-5-250k-plus-bx80768250k?limit=100",
-  "price": 25090,
+  "price": 24650,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 5 250k",
   "brand": "Intel",
@@ -4944,7 +4944,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-7-270k-plus-bx80768270k?limit=100",
-  "price": 36790,
+  "price": 35850,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5238,7 +5238,7 @@
  {
   "name": "intel core ultra 5 225",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-5-225-bx80768225?limit=100",
-  "price": 19890,
+  "price": 19690,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 5 225",
   "brand": "Intel",
@@ -5331,6 +5331,20 @@
   "cores": 12,
   "threads": 20,
   "base_clock_ghz": 3.6,
+  "tdp_watt": 125
+ },
+ {
+  "name": "intel core i5 14600k",
+  "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i5-14600k-14th-gen-14-core-upto-5-3ghz-lga1700-processor",
+  "price": 33500,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "intel core i5 14600k",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i5",
+  "cores": 14,
+  "threads": 20,
+  "base_clock_ghz": 3.5,
   "tdp_watt": 125
  }
 ]

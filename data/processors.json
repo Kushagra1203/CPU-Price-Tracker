@@ -884,7 +884,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://www.theitdepot.com/Processor?product_id=6240",
-  "price": 47845,
+  "price": 47550,
   "vendor": "The IT Depot",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -1206,7 +1206,7 @@
  {
   "name": "amd ryzen 5 5600x",
   "link": "https://mdcomputers.in/product/amd-ryzen-5-5600x-100-100000065box-desktop-processor/processor?page=1",
-  "price": 14850,
+  "price": 15200,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 5 5600x",
   "brand": "AMD",
@@ -1430,7 +1430,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://mdcomputers.in/product/intel-i5-14400-bx8071514400-desktop-processor/processor?page=2",
-  "price": 23000,
+  "price": 20750,
   "vendor": "MDComputers",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -4748,7 +4748,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://mdcomputers.in/product/intel-ultra-7-270k-plus-bx80768270k-desktop-processor/processor?page=3",
-  "price": 36800,
+  "price": 36000,
   "vendor": "MDComputers",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5346,5 +5346,19 @@
   "threads": 20,
   "base_clock_ghz": 3.5,
   "tdp_watt": 125
+ },
+ {
+  "name": "intel core i9 14900ks",
+  "link": "https://mdcomputers.in/product/intel-i9-14900ks-bx8071514900ks-desktop-processor/processor?page=3",
+  "price": 79999,
+  "vendor": "MDComputers",
+  "standard_name": "intel core i9 14900ks",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i9",
+  "cores": 24,
+  "threads": 32,
+  "base_clock_ghz": 3.2,
+  "tdp_watt": 150
  }
 ]

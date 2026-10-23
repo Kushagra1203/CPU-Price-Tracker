@@ -310,7 +310,7 @@
  {
   "name": "intel core i9 14900ks",
   "link": "https://elitehubs.com/products/intel-core-i9-14900ks-14th-generation-processor-6-2-ghz-24-cores-32-threads",
-  "price": 80234,
+  "price": 63015,
   "vendor": "Elitehubs",
   "standard_name": "intel core i9 14900ks",
   "brand": "Intel",
@@ -1024,7 +1024,7 @@
  {
   "name": "amd ryzen 7 5800x3d",
   "link": "https://mdcomputers.in/product/amd-ryzen-7-5800x3d-desktop-processor-100-100000651pof/processor?page=1",
-  "price": 36999,
+  "price": 37499,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 7 5800x3d",
   "brand": "AMD",
@@ -1052,7 +1052,7 @@
  {
   "name": "intel core i3 9350kf",
   "link": "https://mdcomputers.in/product/intel-i3-9350kf-bx80684i39350kf-desktop-processor/processor?page=1",
-  "price": 7699,
+  "price": 7988,
   "vendor": "MDComputers",
   "standard_name": "intel core i3 9350kf",
   "brand": "Intel",
@@ -1094,7 +1094,7 @@
  {
   "name": "amd ryzen 5 5500",
   "link": "https://mdcomputers.in/product/amd-ryzen-5-5500-100-100000457box-desktop-processor/processor?page=1",
-  "price": 10400,
+  "price": 10700,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 5 5500",
   "brand": "AMD",
@@ -1164,7 +1164,7 @@
  {
   "name": "intel core ultra 5 225f",
   "link": "https://mdcomputers.in/product/intel-ultra-5-225f-bx80768225f-desktop-processor/processor?page=1",
-  "price": 13499,
+  "price": 13880,
   "vendor": "MDComputers",
   "standard_name": "intel core ultra 5 225f",
   "brand": "Intel",
@@ -1332,7 +1332,7 @@
  {
   "name": "amd ryzen 5 8600g",
   "link": "https://mdcomputers.in/product/amd-ryzen-5-8600g-100-100001237box-desktop-processor/processor?page=2",
-  "price": 20000,
+  "price": 20800,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 5 8600g",
   "brand": "AMD",
@@ -1374,7 +1374,7 @@
  {
   "name": "amd ryzen 7 5700g",
   "link": "https://mdcomputers.in/product/amd-ryzen-7-5700g-100-100000263box-desktop-processor/processor?page=2",
-  "price": 21400,
+  "price": 22900,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 7 5700g",
   "brand": "AMD",
@@ -1626,7 +1626,7 @@
  {
   "name": "amd ryzen 7 5800x3d",
   "link": "https://mdcomputers.in/product/amd-ryzen-7-5800x3d-desktop-processor-100-100000651pof/processor?page=3",
-  "price": 36999,
+  "price": 37499,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 7 5800x3d",
   "brand": "AMD",
@@ -1668,7 +1668,7 @@
  {
   "name": "intel core i7 14700kf",
   "link": "https://mdcomputers.in/product/intel-i7-14700kf-bx8071514700kf-desktop-processor/processor?page=3",
-  "price": 37499,
+  "price": 40280,
   "vendor": "MDComputers",
   "standard_name": "intel core i7 14700kf",
   "brand": "Intel",
@@ -1724,7 +1724,7 @@
  {
   "name": "intel core i9 14900k",
   "link": "https://mdcomputers.in/product/intel-i9-14900k-bx8071514900k-desktop-processor/processor?page=3",
-  "price": 47500,
+  "price": 47200,
   "vendor": "MDComputers",
   "standard_name": "intel core i9 14900k",
   "brand": "Intel",
@@ -1794,7 +1794,7 @@
  {
   "name": "intel core i9 14900ks",
   "link": "https://mdcomputers.in/product/intel-i9-14900ks-bx8071514900ks-desktop-processor/processor?page=4",
-  "price": 79999,
+  "price": 63019,
   "vendor": "MDComputers",
   "standard_name": "intel core i9 14900ks",
   "brand": "Intel",
@@ -2214,7 +2214,7 @@
  {
   "name": "amd ryzen 5 5600x",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-5-5600x-processor-100-100000065box?limit=100",
-  "price": 14250,
+  "price": 14550,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 5 5600x",
   "brand": "AMD",
@@ -2354,7 +2354,7 @@
  {
   "name": "amd ryzen 5 5600",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-5-5600-6-core-upto-4-2ghz-am4-processor-1",
-  "price": 12700,
+  "price": 13000,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 5600",
   "brand": "AMD",
@@ -2396,7 +2396,7 @@
  {
   "name": "amd ryzen 5 5500",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-5000-series-ryzen-5-5500-desktop-processor-6-cores-12-threads-4-2ghz-am4-processor-100-100000457box",
-  "price": 9100,
+  "price": 10200,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 5500",
   "brand": "AMD",
@@ -4692,7 +4692,7 @@
  {
   "name": "intel core ultra 5 250kf",
   "link": "https://mdcomputers.in/product/intel-ultra-5-250kf-plus-bx80768250kf-desktop-processor/processor?page=2",
-  "price": 23299,
+  "price": 24000,
   "vendor": "MDComputers",
   "standard_name": "intel core ultra 5 250kf",
   "brand": "Intel",
@@ -5360,5 +5360,19 @@
   "threads": 32,
   "base_clock_ghz": 3.2,
   "tdp_watt": 150
+ },
+ {
+  "name": "amd ryzen 5 5600g",
+  "link": "https://elitehubs.com/products/amd-ryzen-5-5600g-desktop-processor-6-cores-up-to-4-4ghz-19mb-cache-am4-socket-with-radeon-graphics",
+  "price": 20999,
+  "vendor": "Elitehubs",
+  "standard_name": "amd ryzen 5 5600g",
+  "brand": "AMD",
+  "generation": "AMD 5th Generation",
+  "series": "Ryzen 5",
+  "cores": 6,
+  "threads": 12,
+  "base_clock_ghz": 3.9,
+  "tdp_watt": 65
  }
 ]

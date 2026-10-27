@@ -156,7 +156,7 @@
  {
   "name": "amd ryzen 9 9950x",
   "link": "https://elitehubs.com/products/amd-ryzen-9-9950x-9th-generation-processor-5-7-ghz-16-cores-24-threads",
-  "price": 59495,
+  "price": 59845,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 9 9950x",
   "brand": "AMD",
@@ -268,7 +268,7 @@
  {
   "name": "amd ryzen 5 3400g",
   "link": "https://elitehubs.com/products/amd-ryzen-5-3400g-apu-processor",
-  "price": 8395,
+  "price": 8845,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 5 3400g",
   "brand": "AMD",
@@ -912,7 +912,7 @@
  {
   "name": "amd ryzen 9 9950x",
   "link": "https://www.theitdepot.com/Processor?product_id=5875",
-  "price": 61385,
+  "price": 60180,
   "vendor": "The IT Depot",
   "standard_name": "amd ryzen 9 9950x",
   "brand": "AMD",
@@ -1066,7 +1066,7 @@
  {
   "name": "amd ryzen 5 3400g",
   "link": "https://mdcomputers.in/product/amd-ryzen-5-3400g-yd3400c5fhbox-desktop-processor/processor?page=1",
-  "price": 8300,
+  "price": 8850,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 5 3400g",
   "brand": "AMD",
@@ -1570,7 +1570,7 @@
  {
   "name": "intel core i5 14600k",
   "link": "https://mdcomputers.in/product/intel-i5-14600k-bx8071514600k-desktop-processor/processor?page=3",
-  "price": 32960,
+  "price": 31800,
   "vendor": "MDComputers",
   "standard_name": "intel core i5 14600k",
   "brand": "Intel",
@@ -2158,7 +2158,7 @@
  {
   "name": "amd ryzen 5 5500",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-5-5500-processor-100-100000457box?limit=100",
-  "price": 9140,
+  "price": 10640,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 5 5500",
   "brand": "AMD",
@@ -5401,6 +5401,34 @@
   "cores": 14,
   "threads": 20,
   "base_clock_ghz": 3.5,
+  "tdp_watt": 125
+ },
+ {
+  "name": "intel core ultra 7 270k",
+  "link": "https://www.theitdepot.com/Processor?product_id=9269",
+  "price": 37095,
+  "vendor": "The IT Depot",
+  "standard_name": "intel core ultra 7 270k",
+  "brand": "Intel",
+  "generation": "Intel Ultra Generation",
+  "series": "Intel Core Ultra 7",
+  "cores": 24,
+  "threads": 24,
+  "base_clock_ghz": 3.7,
+  "tdp_watt": 125
+ },
+ {
+  "name": "intel core i7 14700k",
+  "link": "https://www.pcstudio.in/product/intel-core-i7-14700k-14th-gen-desktop-processor/",
+  "price": 43500,
+  "vendor": "PC Studio",
+  "standard_name": "intel core i7 14700k",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i7",
+  "cores": 20,
+  "threads": 28,
+  "base_clock_ghz": 3.4,
   "tdp_watt": 125
  }
 ]

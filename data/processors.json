@@ -1794,7 +1794,7 @@
  {
   "name": "intel core i9 14900ks",
   "link": "https://mdcomputers.in/product/intel-i9-14900ks-bx8071514900ks-desktop-processor/processor?page=4",
-  "price": 63019,
+  "price": 86500,
   "vendor": "MDComputers",
   "standard_name": "intel core i9 14900ks",
   "brand": "Intel",
@@ -3740,7 +3740,7 @@
  {
   "name": "amd ryzen 7 5800x3d",
   "link": "https://www.pcstudio.in/product/amd-ryzen-7-5800x3d-desktop-gaming-processor/",
-  "price": 37000,
+  "price": 36899,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 7 5800x3d",
   "brand": "AMD",
@@ -3754,7 +3754,7 @@
  {
   "name": "amd ryzen 7 5700x",
   "link": "https://www.pcstudio.in/product/amd-ryzen-7-5700x-oem-processor-8-cores-16-threads-max-boost-clock-up-to-4-6ghz-am4-socket-and-36mb-cache/",
-  "price": 17400,
+  "price": 16500,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 7 5700x",
   "brand": "AMD",
@@ -3824,7 +3824,7 @@
  {
   "name": "amd ryzen threadripper pro 9955wx",
   "link": "https://www.pcstudio.in/product/amd-ryzen-threadripper-pro-9955wx-workstation-processor-tray/",
-  "price": 168900,
+  "price": 184000,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen threadripper pro 9955wx",
   "brand": "AMD",
@@ -3978,7 +3978,7 @@
  {
   "name": "amd ryzen 9 9950x",
   "link": "https://www.pcstudio.in/product/amd-ryzen-9-9950x-am5-desktop-processor/",
-  "price": 58900,
+  "price": 58990,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 9 9950x",
   "brand": "AMD",
@@ -4790,7 +4790,7 @@
  {
   "name": "amd ryzen 7 7700x3d",
   "link": "https://www.pcstudio.in/product/amd-ryzen-7-7700x3d-desktop-processor/",
-  "price": 36400,
+  "price": 36380,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 7 7700x3d",
   "brand": "AMD",
@@ -4804,7 +4804,7 @@
  {
   "name": "intel core ultra 5 250kf",
   "link": "https://www.pcstudio.in/product/intel-core-ultra-5-250kf-plus-processor-bx80768250kf/",
-  "price": 24400,
+  "price": 23800,
   "vendor": "PC Studio",
   "standard_name": "intel core ultra 5 250kf",
   "brand": "Intel",
@@ -4818,7 +4818,7 @@
  {
   "name": "intel core ultra 5 250k",
   "link": "https://www.pcstudio.in/product/intel-core-ultra-5-250k-plus-processor-bx80768250k/",
-  "price": 25080,
+  "price": 24650,
   "vendor": "PC Studio",
   "standard_name": "intel core ultra 5 250k",
   "brand": "Intel",
@@ -4832,7 +4832,7 @@
  {
   "name": "amd ryzen 5 7500x3d",
   "link": "https://www.pcstudio.in/product/amd-ryzen-5-7500x3d-desktop-processor-tray-100-000001904/",
-  "price": 24400,
+  "price": 24390,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 5 7500x3d",
   "brand": "AMD",
@@ -4846,7 +4846,7 @@
  {
   "name": "amd ryzen 9 9950x3d2",
   "link": "https://www.pcstudio.in/product/amd-ryzen-9-9950x3d2-dual-edition-desktop-processor/",
-  "price": 97600,
+  "price": 97500,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 9 9950x3d2",
   "brand": "AMD",
@@ -4860,7 +4860,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://www.pcstudio.in/product/intel-core-ultra-7-270k-plus-desktop-processor-bx80768270k/",
-  "price": 37090,
+  "price": 35840,
   "vendor": "PC Studio",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -4888,7 +4888,7 @@
  {
   "name": "amd ryzen 5 7500f",
   "link": "https://www.pcstudio.in/product/amd-ryzen-5-7500f-desktop-processor/",
-  "price": 14999,
+  "price": 14980,
   "vendor": "PC Studio",
   "standard_name": "amd ryzen 5 7500f",
   "brand": "AMD",
@@ -5429,6 +5429,48 @@
   "cores": 20,
   "threads": 28,
   "base_clock_ghz": 3.4,
+  "tdp_watt": 125
+ },
+ {
+  "name": "intel core i9 14900ks",
+  "link": "https://www.pcstudio.in/product/intel-core-i9-14900ks-14th-gen-desktop-processor/",
+  "price": 83500,
+  "vendor": "PC Studio",
+  "standard_name": "intel core i9 14900ks",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i9",
+  "cores": 24,
+  "threads": 32,
+  "base_clock_ghz": 3.2,
+  "tdp_watt": 150
+ },
+ {
+  "name": "intel core i5 14500",
+  "link": "https://www.pcstudio.in/product/intel-core-i5-14500-desktop-processor/",
+  "price": 24900,
+  "vendor": "PC Studio",
+  "standard_name": "intel core i5 14500",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i5",
+  "cores": 14,
+  "threads": 20,
+  "base_clock_ghz": 2.6,
+  "tdp_watt": 65
+ },
+ {
+  "name": "intel core i5 14600k",
+  "link": "https://www.pcstudio.in/product/intel-core-i5-14600k-14th-gen-desktop-processor/",
+  "price": 32000,
+  "vendor": "PC Studio",
+  "standard_name": "intel core i5 14600k",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i5",
+  "cores": 14,
+  "threads": 20,
+  "base_clock_ghz": 3.5,
   "tdp_watt": 125
  }
 ]

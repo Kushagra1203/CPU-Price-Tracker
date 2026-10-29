@@ -310,7 +310,7 @@
  {
   "name": "intel core i9 14900ks",
   "link": "https://elitehubs.com/products/intel-core-i9-14900ks-14th-generation-processor-6-2-ghz-24-cores-32-threads",
-  "price": 63015,
+  "price": 86495,
   "vendor": "Elitehubs",
   "standard_name": "intel core i9 14900ks",
   "brand": "Intel",
@@ -1864,7 +1864,7 @@
  {
   "name": "amd ryzen 7 7800x3d",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-7-7800x3d-processor?limit=100",
-  "price": 39590,
+  "price": 39190,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 7 7800x3d",
   "brand": "AMD",
@@ -1906,7 +1906,7 @@
  {
   "name": "amd ryzen 9 7900x",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-9-7900x-processor?limit=100",
-  "price": 34390,
+  "price": 34039,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 9 7900x",
   "brand": "AMD",
@@ -1934,7 +1934,7 @@
  {
   "name": "amd ryzen 9 9950x3d",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-9-9950x3d-100-100000719wof?limit=100",
-  "price": 71240,
+  "price": 71190,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 9 9950x3d",
   "brand": "AMD",
@@ -1948,7 +1948,7 @@
  {
   "name": "intel core i3 14100",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i3-processor-14100-bx8071514100?limit=100",
-  "price": 16650,
+  "price": 14440,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i3 14100",
   "brand": "Intel",
@@ -1962,7 +1962,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i5-processor-14400-bx8071514400?limit=100",
-  "price": 22990,
+  "price": 20740,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -2018,7 +2018,7 @@
  {
   "name": "intel core i7 14700f",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i7-processor-14700f-bx8071514700f?limit=100",
-  "price": 33990,
+  "price": 32690,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i7 14700f",
   "brand": "Intel",
@@ -2032,7 +2032,7 @@
  {
   "name": "intel core i7 14700k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i7-processor-14700k-bx8071514700k?limit=100",
-  "price": 44590,
+  "price": 43990,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i7 14700k",
   "brand": "Intel",
@@ -2074,7 +2074,7 @@
  {
   "name": "intel core ultra 5 225f",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-5-225f-bx80768225f?limit=100",
-  "price": 13489,
+  "price": 13389,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 5 225f",
   "brand": "Intel",
@@ -2102,7 +2102,7 @@
  {
   "name": "intel core ultra 7 265k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-7-265k-bx80768265k?limit=100",
-  "price": 32580,
+  "price": 32289,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 7 265k",
   "brand": "Intel",
@@ -2228,7 +2228,7 @@
  {
   "name": "amd ryzen 5 8500g",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-5-8500g-processor-100-100000931box?limit=100",
-  "price": 15040,
+  "price": 14989,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 5 8500g",
   "brand": "AMD",
@@ -2298,7 +2298,7 @@
  {
   "name": "intel core i5 12400f",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i5-12400f-processor?limit=100",
-  "price": 14740,
+  "price": 14490,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i5 12400f",
   "brand": "Intel",
@@ -5210,7 +5210,7 @@
  {
   "name": "amd ryzen 9 9950x3d",
   "link": "https://mdcomputers.in/product/amd-ryzen-9-9950x3d-100-100000719wof-desktop-processor/processor?page=3",
-  "price": 71250,
+  "price": 71200,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 9 9950x3d",
   "brand": "AMD",

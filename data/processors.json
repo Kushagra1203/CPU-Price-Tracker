@@ -1234,7 +1234,7 @@
  {
   "name": "intel core i3 14100",
   "link": "https://mdcomputers.in/product/intel-i3-14100-bx8071514100-desktop-processor/processor?page=1",
-  "price": 14450,
+  "price": 14300,
   "vendor": "MDComputers",
   "standard_name": "intel core i3 14100",
   "brand": "Intel",
@@ -1430,7 +1430,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://mdcomputers.in/product/intel-i5-14400-bx8071514400-desktop-processor/processor?page=2",
-  "price": 20750,
+  "price": 20600,
   "vendor": "MDComputers",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -2340,7 +2340,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-9800x3d-4-7-ghz-eight-core-am5-processor",
-  "price": 49200,
+  "price": 49450,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -3082,7 +3082,7 @@
  {
   "name": "amd ryzen 5 8600g",
   "link": "https://www.ezpzsolutions.in/amd-ryzen-5-8600g-processor/",
-  "price": 19949,
+  "price": 20769,
   "vendor": "Ezpz Solutions",
   "standard_name": "amd ryzen 5 8600g",
   "brand": "AMD",
@@ -3096,7 +3096,7 @@
  {
   "name": "intel core i3 14100",
   "link": "https://www.ezpzsolutions.in/intel-core-i3-14100-processor/",
-  "price": 16869,
+  "price": 14419,
   "vendor": "Ezpz Solutions",
   "standard_name": "intel core i3 14100",
   "brand": "Intel",
@@ -4748,7 +4748,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://mdcomputers.in/product/intel-ultra-7-270k-plus-bx80768270k-desktop-processor/processor?page=3",
-  "price": 36000,
+  "price": 35500,
   "vendor": "MDComputers",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5472,5 +5472,33 @@
   "threads": 20,
   "base_clock_ghz": 3.5,
   "tdp_watt": 125
+ },
+ {
+  "name": "intel core i5 14500",
+  "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i5-14500-desktop-processor",
+  "price": 27700,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "intel core i5 14500",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i5",
+  "cores": 14,
+  "threads": 20,
+  "base_clock_ghz": 2.6,
+  "tdp_watt": 65
+ },
+ {
+  "name": "amd ryzen threadripper 7980x",
+  "link": "https://mdcomputers.in/product/amd-ryzen-threadripper-7980x-100-000001350-desktop-processor/processor?page=4",
+  "price": 509000,
+  "vendor": "MDComputers",
+  "standard_name": "amd ryzen threadripper 7980x",
+  "brand": "AMD",
+  "generation": "AMD Threadripper 7000",
+  "series": "Threadripper",
+  "cores": 64,
+  "threads": 128,
+  "base_clock_ghz": 3.2,
+  "tdp_watt": 350
  }
 ]

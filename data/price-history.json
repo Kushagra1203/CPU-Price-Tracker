@@ -1645,32 +1645,32 @@
      "price": 6040
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 6675
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 6639
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 6680
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 6650
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 6380
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 6040
     }
@@ -2771,22 +2771,22 @@
      "price": 8800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 8845
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 8850
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 8200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 8800
     }
@@ -4468,36 +4468,41 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Elitehubs",
-     "price": 10695
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 10669
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "MDComputers",
-     "price": 10700
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "PC Studio",
-     "price": 10400
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "The IT Depot",
-     "price": 9509
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "Vedant Computers",
      "price": 10640
     },
     {
      "date": "2026-11-03",
+     "vendor": "Vishal Peripherals",
+     "price": 10200
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "Elitehubs",
+     "price": 10695
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 10669
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 10700
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "PC Studio",
+     "price": 10400
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "The IT Depot",
+     "price": 9509
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 10200
     }
@@ -6154,27 +6159,27 @@
      "price": 13100
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 14100
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 14100
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 13879
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 13200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 13100
     }
@@ -6490,12 +6495,12 @@
      "price": 18800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 20999
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 19500
     }
@@ -7632,21 +7637,26 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 19249
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "MDComputers",
      "price": 20800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 19249
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 20800
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 19250
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 19000
     }
@@ -9292,32 +9302,32 @@
      "price": 14550
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 15195
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 15169
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 15200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 15200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 14145
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 14550
     }
@@ -11013,32 +11023,32 @@
      "price": 15195
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 15169
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 15200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 14980
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 15050
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 14989
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 14700
     }
@@ -11309,7 +11319,7 @@
      "price": 24390
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 24390
     }
@@ -11875,7 +11885,7 @@
      "price": 19995
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 19800
     }
@@ -13486,22 +13496,22 @@
      "price": 17995
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 17949
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 17190
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 17935
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 17290
     }
@@ -15152,32 +15162,32 @@
      "price": 14989
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 15345
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 15329
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 15350
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 15030
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 15045
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 14989
     }
@@ -16814,31 +16824,36 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Elitehubs",
-     "price": 20795
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 20769
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "MDComputers",
      "price": 20800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Elitehubs",
+     "price": 20795
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 20769
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 20800
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 20200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 20229
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 20200
     }
@@ -18519,32 +18534,37 @@
      "price": 21645
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Elitehubs",
+     "price": 21645
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 20769
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 20800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 20750
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 21065
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 20690
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 20200
     }
@@ -19920,27 +19940,27 @@
      "price": 22400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 22895
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 22900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 22900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 21669
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 22400
     }
@@ -20486,12 +20506,12 @@
      "price": 16940
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 16500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 16940
     }
@@ -22408,31 +22428,36 @@
     },
     {
      "date": "2026-11-03",
+     "vendor": "MDComputers",
+     "price": 37499
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 37449
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 37499
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 37499
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 36899
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 37315
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 36900
     }
@@ -24073,22 +24098,22 @@
      "price": 26295
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 25949
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 26000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 26190
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 25990
     }
@@ -25179,17 +25204,17 @@
      "price": 36395
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 36225
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 36380
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 36390
     }
@@ -26871,31 +26896,36 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 39519
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "MDComputers",
-     "price": 39200
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "PC Studio",
      "price": 35899
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 39519
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 39200
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "PC Studio",
+     "price": 35899
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 39600
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 40925
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 39190
     }
@@ -27451,12 +27481,12 @@
      "price": 26480
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 25900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 26480
     }
@@ -28547,17 +28577,17 @@
      "price": 30090
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 30695
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 30590
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 30090
     }
@@ -30258,37 +30288,37 @@
      "price": 28550
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 29395
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 29169
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 29200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 29080
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 29190
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 29090
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 28550
     }
@@ -31969,27 +31999,27 @@
      "price": 48495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 47969
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 48000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 47435
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 47550
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 47440
     }
@@ -33400,17 +33430,17 @@
      "price": 52995
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 52969
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 52980
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 54165
     }
@@ -35111,37 +35141,37 @@
      "price": 33700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 34395
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 34369
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 34230
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 34390
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 37350
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 34039
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 33700
     }
@@ -35427,7 +35457,7 @@
      "price": 66198
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 66198
     }
@@ -37133,32 +37163,32 @@
      "price": 40999
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 40149
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 40200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 39500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 42130
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 40190
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 40200
     }
@@ -38309,27 +38339,27 @@
      "price": 48700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 59845
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 59850
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 58990
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 60180
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 48700
     }
@@ -39736,26 +39766,31 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 71199
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "MDComputers",
      "price": 71200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 71199
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 71200
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 71700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 77030
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 71190
     }
@@ -41126,12 +41161,17 @@
      "price": 97600
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 97600
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 97500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 98699
     }
@@ -41677,12 +41717,12 @@
      "price": 212015
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 250500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 212015
     }
@@ -41703,7 +41743,7 @@
      "price": 509000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 509000
     }
@@ -41974,7 +42014,7 @@
      "price": 258400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 258400
     }
@@ -42245,7 +42285,7 @@
      "price": 518800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 518800
     }
@@ -42543,7 +42583,7 @@
      "price": 272500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 272500
     }
@@ -43094,12 +43134,12 @@
      "price": 376775
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 388100
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 376775
     }
@@ -43380,7 +43420,7 @@
      "price": 752000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 752000
     }
@@ -43656,7 +43696,7 @@
      "price": 985000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 985000
     }
@@ -43932,7 +43972,7 @@
      "price": 184000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 184000
     }
@@ -44203,7 +44243,7 @@
      "price": 298000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 298000
     }
@@ -44474,7 +44514,7 @@
      "price": 428500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 428500
     }
@@ -44766,11 +44806,16 @@
     },
     {
      "date": "2026-11-03",
+     "vendor": "The IT Depot",
+     "price": 830484
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 828000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 830484
     }
@@ -45041,7 +45086,7 @@
      "price": 1218600
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 1218600
     }
@@ -45613,12 +45658,12 @@
      "price": 9150
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 9145
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 9150
     }
@@ -46489,22 +46534,22 @@
      "price": 14750
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 14169
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 14200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 17200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 14750
     }
@@ -47325,17 +47370,17 @@
      "price": 10570
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 10645
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 10650
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 10570
     }
@@ -48986,32 +49031,32 @@
      "price": 14440
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 16895
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 14419
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 14300
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 16650
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 15500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 14440
     }
@@ -50427,32 +50472,32 @@
      "price": 10300
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 11395
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 11369
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 11400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 11400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 10595
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 10300
     }
@@ -51018,7 +51063,7 @@
      "price": 7983
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 7988
     }
@@ -51854,17 +51899,17 @@
      "price": 14790
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 14845
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 14850
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 14790
     }
@@ -52425,12 +52470,12 @@
      "price": 13550
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 13545
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 13550
     }
@@ -54076,32 +54121,32 @@
      "price": 21590
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 22245
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 21549
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 21100
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 21750
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 19275
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 21590
     }
@@ -55802,27 +55847,27 @@
      "price": 15595
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 14719
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 14500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 15380
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 14445
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 14490
     }
@@ -56394,12 +56439,12 @@
      "price": 24700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 22500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 24700
     }
@@ -56685,7 +56730,7 @@
      "price": 17700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 17700
     }
@@ -56971,7 +57016,7 @@
      "price": 27700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 27700
     }
@@ -58613,26 +58658,31 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 20719
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "MDComputers",
      "price": 20400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 20719
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 20400
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 23450
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 30300
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 20740
     }
@@ -60288,27 +60338,27 @@
      "price": 17095
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 16969
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 17000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 16980
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 17455
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 16990
     }
@@ -60619,12 +60669,12 @@
      "price": 24900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 25000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 24900
     }
@@ -62071,26 +62121,31 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Ezpz Solutions",
-     "price": 32929
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "MDComputers",
      "price": 31800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 32929
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 31800
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 32000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 33660
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 31400
     }
@@ -63436,17 +63491,17 @@
      "price": 34295
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 32500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 32500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 34999
     }
@@ -64547,22 +64602,22 @@
      "price": 30989
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 31299
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 31730
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 31900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 30989
     }
@@ -65398,17 +65453,17 @@
      "price": 38500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 36769
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 36800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 38500
     }
@@ -65970,11 +66025,16 @@
     },
     {
      "date": "2026-11-03",
+     "vendor": "MDComputers",
+     "price": 31499
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 31729
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 31499
     }
@@ -66260,7 +66320,7 @@
      "price": 40999
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 40999
     }
@@ -67636,22 +67696,22 @@
      "price": 42495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 42500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 42300
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 50999
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 41510
     }
@@ -69303,28 +69363,28 @@
     },
     {
      "date": "2026-11-03",
+     "vendor": "Vedant Computers",
+     "price": 32690
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 33949
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 32700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 34200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 34950
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "Vedant Computers",
-     "price": 32690
     }
    ]
   },
@@ -70769,18 +70829,8 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Elitehubs",
-     "price": 46095
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "Ezpz Solutions",
      "price": 44099
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "MDComputers",
-     "price": 44150
     },
     {
      "date": "2026-11-03",
@@ -70788,12 +70838,32 @@
      "price": 43500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Elitehubs",
+     "price": 46095
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "Ezpz Solutions",
+     "price": 44099
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 44150
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "PC Studio",
+     "price": 43500
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 45150
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 43990
     }
@@ -71894,17 +71964,17 @@
      "price": 40998
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 40239
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 39299
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 41000
     }
@@ -72190,7 +72260,7 @@
      "price": 74150
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 74150
     }
@@ -72476,7 +72546,7 @@
      "price": 46700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 46700
     }
@@ -73883,26 +73953,31 @@
     },
     {
      "date": "2026-11-03",
-     "vendor": "Elitehubs",
-     "price": 47995
-    },
-    {
-     "date": "2026-11-03",
      "vendor": "MDComputers",
      "price": 46900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
+     "vendor": "Elitehubs",
+     "price": 47995
+    },
+    {
+     "date": "2026-11-04",
+     "vendor": "MDComputers",
+     "price": 46900
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 47900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 46950
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 46690
     }
@@ -74733,12 +74808,12 @@
      "price": 47495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 46849
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 46100
     }
@@ -76124,22 +76199,22 @@
      "price": 87759
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 86495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 62989
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 83500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 87759
     }
@@ -77515,22 +77590,22 @@
      "price": 20495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 19700
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 19900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 20500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 19690
     }
@@ -79161,27 +79236,27 @@
      "price": 13389
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 13849
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 13880
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 13690
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 14545
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 13389
     }
@@ -80022,12 +80097,12 @@
      "price": 24095
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 24049
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 24100
     }
@@ -81608,22 +81683,22 @@
      "price": 28999
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 21849
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 21900
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 22230
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 28999
     }
@@ -82449,17 +82524,17 @@
      "price": 20400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 20369
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 20400
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 20400
     }
@@ -83835,22 +83910,22 @@
      "price": 28399
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 25069
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 25100
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 24650
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 24650
     }
@@ -84951,17 +85026,17 @@
      "price": 26395
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 23949
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 23500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 23800
     }
@@ -86608,38 +86683,38 @@
     },
     {
      "date": "2026-11-03",
+     "vendor": "Vishal Peripherals",
+     "price": 33200
+    },
+    {
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 33495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 32699
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 32750
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 32570
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 40800
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 32289
-    },
-    {
-     "date": "2026-11-03",
-     "vendor": "Vishal Peripherals",
-     "price": 33200
     }
    ]
   },
@@ -87473,17 +87548,17 @@
      "price": 29000
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 29195
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 28949
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 29000
     }
@@ -88879,27 +88954,27 @@
      "price": 38195
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 35949
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 35500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 35840
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 37095
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 35850
     }
@@ -90585,37 +90660,37 @@
      "price": 60200
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Elitehubs",
      "price": 61495
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Ezpz Solutions",
      "price": 61469
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "MDComputers",
      "price": 61500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "PC Studio",
      "price": 61130
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "The IT Depot",
      "price": 65500
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vedant Computers",
      "price": 59999
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "vendor": "Vishal Peripherals",
      "price": 60200
     }

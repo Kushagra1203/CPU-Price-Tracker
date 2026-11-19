@@ -14430,12 +14430,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 15195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 14980,
      "synthetic": false
@@ -14486,6 +14480,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 14289,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 15195,
      "synthetic": false
     },
     {
@@ -15599,15 +15599,15 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 19995,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-15",
      "vendor": "MDComputers",
      "price": 19800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 19995,
      "synthetic": false
     },
     {
@@ -29424,6 +29424,12 @@
     },
     {
      "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 38194,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
      "vendor": "Ezpz Solutions",
      "price": 37449,
      "synthetic": false
@@ -31529,12 +31535,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 26295,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-15",
      "vendor": "Ezpz Solutions",
      "price": 25949,
@@ -31568,6 +31568,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 25937,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 26295,
      "synthetic": false
     },
     {
@@ -33014,6 +33020,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 35299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 36395,
      "synthetic": false
     },
     {
@@ -35178,12 +35190,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 40195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 39600,
      "synthetic": false
@@ -35228,6 +35234,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 38446,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 40195,
      "synthetic": false
     },
     {
@@ -41874,12 +41886,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 48495,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 47435,
      "synthetic": false
@@ -41930,6 +41936,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 46498,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 48495,
      "synthetic": false
     },
     {
@@ -48612,12 +48624,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 40999,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 39500,
      "synthetic": false
@@ -48662,6 +48668,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 38899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 40999,
      "synthetic": false
     },
     {
@@ -52056,12 +52068,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 72095,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "MDComputers",
      "price": 71200,
      "synthetic": false
@@ -52124,6 +52130,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 68989,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 72095,
      "synthetic": false
     },
     {
@@ -53874,12 +53886,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 97595,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "MDComputers",
      "price": 97600,
      "synthetic": false
@@ -53924,6 +53930,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 92994,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 97595,
      "synthetic": false
     },
     {
@@ -73356,12 +73368,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 15595,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "The IT Depot",
      "price": 14445,
      "synthetic": false
@@ -73412,6 +73418,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 13499,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 15595,
      "synthetic": false
     },
     {
@@ -79206,12 +79218,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 17095,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 16980,
      "synthetic": false
@@ -79262,6 +79268,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 15599,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 17095,
      "synthetic": false
     },
     {
@@ -81588,12 +81600,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 32955,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "MDComputers",
      "price": 31800,
      "synthetic": false
@@ -81644,6 +81650,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 31389,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 32955,
      "synthetic": false
     },
     {
@@ -83388,12 +83400,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 34295,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "The IT Depot",
      "price": 34999,
      "synthetic": false
@@ -83420,6 +83426,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 31449,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 34295,
      "synthetic": false
     },
     {
@@ -91050,12 +91062,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 34295,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 34200,
      "synthetic": false
@@ -91106,6 +91112,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 31899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 34295,
      "synthetic": false
     },
     {
@@ -94500,12 +94512,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 40998,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 41000,
      "synthetic": false
@@ -94532,6 +94538,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 37474,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 40998,
      "synthetic": false
     },
     {
@@ -103938,12 +103950,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 13995,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 13690,
      "synthetic": false
@@ -103988,6 +103994,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 13177,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 13995,
      "synthetic": false
     },
     {
@@ -105089,12 +105101,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 24095,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-15",
      "vendor": "Ezpz Solutions",
      "price": 24049,
@@ -105104,6 +105110,12 @@
      "date": "2026-11-15",
      "vendor": "MDComputers",
      "price": 24100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 24095,
      "synthetic": false
     },
     {
@@ -110004,12 +110016,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 28399,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 24650,
      "synthetic": false
@@ -110042,6 +110048,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 23299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 28399,
      "synthetic": false
     },
     {
@@ -111462,12 +111474,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 26395,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 23800,
      "synthetic": false
@@ -111488,6 +111494,12 @@
      "date": "2026-11-15",
      "vendor": "PC Studio",
      "price": 23800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 26395,
      "synthetic": false
     },
     {
@@ -116586,12 +116598,6 @@
     },
     {
      "date": "2026-11-13",
-     "vendor": "Elitehubs",
-     "price": 38195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-13",
      "vendor": "PC Studio",
      "price": 35840,
      "synthetic": false
@@ -116636,6 +116642,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 33999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 38195,
      "synthetic": false
     },
     {

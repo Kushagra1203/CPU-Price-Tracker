@@ -64452,12 +64452,6 @@
     },
     {
      "date": "2026-11-18",
-     "vendor": "MDComputers",
-     "price": 14300,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-18",
      "vendor": "The IT Depot",
      "price": 15500,
      "synthetic": false
@@ -64478,6 +64472,12 @@
      "date": "2026-11-19",
      "vendor": "Ezpz Solutions",
      "price": 14419,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "MDComputers",
+     "price": 14300,
      "synthetic": false
     },
     {

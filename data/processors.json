@@ -1360,7 +1360,7 @@
  {
   "name": "amd ryzen 5 9600x",
   "link": "https://mdcomputers.in/product/amd-ryzen-5-9600x-100-100001405wof-desktop-processor/processor?page=2",
-  "price": 19900,
+  "price": 19700,
   "vendor": "MDComputers",
   "standard_name": "amd ryzen 5 9600x",
   "brand": "AMD",
@@ -1444,7 +1444,7 @@
  {
   "name": "intel core i5 14500",
   "link": "https://mdcomputers.in/product/intel-i5-14500-bx8071514500-desktop-processor/processor?page=2",
-  "price": 25000,
+  "price": 24500,
   "vendor": "MDComputers",
   "standard_name": "intel core i5 14500",
   "brand": "Intel",
@@ -8160,5 +8160,61 @@
   "threads": 16,
   "base_clock_ghz": 4.2,
   "tdp_watt": 65
+ },
+ {
+  "name": "intel core i3 12100",
+  "link": "https://elitehubs.com/products/intel-core-i3-12100-desktop-processor",
+  "price": 14200,
+  "vendor": "Elitehubs",
+  "standard_name": "intel core i3 12100",
+  "brand": "Intel",
+  "generation": "Intel 12th Generation",
+  "series": "Intel Core i3",
+  "cores": 4,
+  "threads": 8,
+  "base_clock_ghz": 3.3,
+  "tdp_watt": 60
+ },
+ {
+  "name": "intel core i7 12700k",
+  "link": "https://elitehubs.com/products/intel-core-i7-12700k-12th-gen-alder-lake-processor-bx8071512700k",
+  "price": 36795,
+  "vendor": "Elitehubs",
+  "standard_name": "intel core i7 12700k",
+  "brand": "Intel",
+  "generation": "Intel 12th Generation",
+  "series": "Intel Core i7",
+  "cores": 12,
+  "threads": 20,
+  "base_clock_ghz": 3.6,
+  "tdp_watt": 125
+ },
+ {
+  "name": "intel core i7 12700f",
+  "link": "https://elitehubs.com/products/intel-core-i7-12700f-12th-gen-desktop-processor",
+  "price": 31895,
+  "vendor": "Elitehubs",
+  "standard_name": "intel core i7 12700f",
+  "brand": "Intel",
+  "generation": "Intel 12th Generation",
+  "series": "Intel Core i7",
+  "cores": 12,
+  "threads": 20,
+  "base_clock_ghz": 2.1,
+  "tdp_watt": 65
+ },
+ {
+  "name": "amd ryzen threadripper pro 5965wx",
+  "link": "https://elitehubs.com/products/amd-ryzen-threadripper-pro-5965wx-3-8ghz-processor",
+  "price": 212600,
+  "vendor": "Elitehubs",
+  "standard_name": "amd ryzen threadripper pro 5965wx",
+  "brand": "AMD",
+  "generation": "AMD Threadripper 5000",
+  "series": "Threadripper",
+  "cores": 24,
+  "threads": 48,
+  "base_clock_ghz": 3.8,
+  "tdp_watt": 280
  }
 ]

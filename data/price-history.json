@@ -55557,6 +55557,12 @@
      "vendor": "Computech Store",
      "price": 192889,
      "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 212600,
+     "synthetic": false
     }
    ]
   },
@@ -61190,6 +61196,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 16088,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 14200,
      "synthetic": false
     },
     {
@@ -67140,6 +67152,12 @@
     },
     {
      "date": "2026-11-18",
+     "vendor": "Elitehubs",
+     "price": 7983,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
      "vendor": "Elitehubs",
      "price": 7983,
      "synthetic": false
@@ -84900,6 +84918,18 @@
     },
     {
      "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 31895,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "MDComputers",
+     "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
      "vendor": "MDComputers",
      "price": 31900,
      "synthetic": false
@@ -86012,6 +86042,12 @@
      "date": "2026-11-18",
      "vendor": "The IT Depot",
      "price": 38500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 36795,
      "synthetic": false
     },
     {
@@ -88946,6 +88982,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 38745,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 42495,
      "synthetic": false
     },
     {
@@ -98358,6 +98400,12 @@
     },
     {
      "date": "2026-11-19",
+     "vendor": "Elitehubs",
+     "price": 47495,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
      "vendor": "Ezpz Solutions",
      "price": 46849,
      "synthetic": false
@@ -101850,12 +101898,6 @@
     },
     {
      "date": "2026-11-18",
-     "vendor": "MDComputers",
-     "price": 19200,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-18",
      "vendor": "The IT Depot",
      "price": 20500,
      "synthetic": false
@@ -101870,6 +101912,12 @@
      "date": "2026-11-19",
      "vendor": "Computech Store",
      "price": 19099,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "MDComputers",
+     "price": 19200,
      "synthetic": false
     },
     {

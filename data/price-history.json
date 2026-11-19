@@ -19902,6 +19902,12 @@
     },
     {
      "date": "2026-11-19",
+     "vendor": "MDComputers",
+     "price": 15350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
      "vendor": "Shweta Computers",
      "price": 15930,
      "synthetic": false
@@ -37436,6 +37442,12 @@
      "date": "2026-11-19",
      "vendor": "Elitehubs",
      "price": 30695,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-19",
+     "vendor": "MDComputers",
+     "price": 30100,
      "synthetic": false
     },
     {

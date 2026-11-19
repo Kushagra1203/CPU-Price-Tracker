@@ -8118,5 +8118,47 @@
   "threads": 24,
   "base_clock_ghz": 4.7,
   "tdp_watt": 170
+ },
+ {
+  "name": "amd ryzen 5 8500g",
+  "link": "https://mdcomputers.in/product/amd-ryzen-5-8500g-100-100000931box-desktop-processor",
+  "price": 15350,
+  "vendor": "MDComputers",
+  "standard_name": "amd ryzen 5 8500g",
+  "brand": "AMD",
+  "generation": "AMD 8th Generation",
+  "series": "Ryzen 5",
+  "cores": 6,
+  "threads": 12,
+  "base_clock_ghz": 3.5,
+  "tdp_watt": 65
+ },
+ {
+  "name": "amd ryzen 5 8600g",
+  "link": "https://mdcomputers.in/product/amd-ryzen-5-8600g-100-100001237box-desktop-processor",
+  "price": 20800,
+  "vendor": "MDComputers",
+  "standard_name": "amd ryzen 5 8600g",
+  "brand": "AMD",
+  "generation": "AMD 8th Generation",
+  "series": "Ryzen 5",
+  "cores": 6,
+  "threads": 12,
+  "base_clock_ghz": 4.3,
+  "tdp_watt": 65
+ },
+ {
+  "name": "amd ryzen 7 8700g",
+  "link": "https://mdcomputers.in/product/amd-ryzen-7-8700g-100-100001236box-desktop-processor",
+  "price": 30100,
+  "vendor": "MDComputers",
+  "standard_name": "amd ryzen 7 8700g",
+  "brand": "AMD",
+  "generation": "AMD 8th Generation",
+  "series": "Ryzen 7",
+  "cores": 8,
+  "threads": 16,
+  "base_clock_ghz": 4.2,
+  "tdp_watt": 65
  }
 ]

@@ -10242,6 +10242,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 20800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 20700,
      "synthetic": false
@@ -20276,6 +20282,12 @@
      "date": "2026-11-20",
      "vendor": "Ezpz Solutions",
      "price": 15329,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 15350,
      "synthetic": false
     },
     {
@@ -38196,6 +38208,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 30100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 30590,
      "synthetic": false
@@ -44630,6 +44648,12 @@
      "date": "2026-11-20",
      "vendor": "Ezpz Solutions",
      "price": 52969,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 53000,
      "synthetic": false
     },
     {
@@ -54980,6 +55004,12 @@
      "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 97595,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 97600,
      "synthetic": false
     },
     {
@@ -78750,6 +78780,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 18250,
      "synthetic": false
@@ -83430,6 +83466,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 31800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 32000,
      "synthetic": false
@@ -86748,6 +86790,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 31730,
      "synthetic": false
@@ -88664,6 +88712,12 @@
      "date": "2026-11-20",
      "vendor": "Ezpz Solutions",
      "price": 31729,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 31800,
      "synthetic": false
     },
     {
@@ -99374,6 +99428,12 @@
      "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 47995,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 46900,
      "synthetic": false
     },
     {

@@ -1822,7 +1822,7 @@
  {
   "name": "amd ryzen 5 9600x",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-5-9600x-100-100001405wof?limit=100",
-  "price": 19890,
+  "price": 19690,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 5 9600x",
   "brand": "AMD",
@@ -1878,7 +1878,7 @@
  {
   "name": "amd ryzen 7 9700x",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-7-9700x-100-100001404wof?limit=100",
-  "price": 29090,
+  "price": 28790,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 7 9700x",
   "brand": "AMD",
@@ -1948,7 +1948,7 @@
  {
   "name": "intel core i3 14100",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i3-processor-14100-bx8071514100?limit=100",
-  "price": 14440,
+  "price": 14290,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i3 14100",
   "brand": "Intel",
@@ -2102,7 +2102,7 @@
  {
   "name": "intel core ultra 7 265k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-7-265k-bx80768265k?limit=100",
-  "price": 32289,
+  "price": 32090,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 7 265k",
   "brand": "Intel",
@@ -2186,7 +2186,7 @@
  {
   "name": "amd ryzen 5 5600g",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-5-5600g-processor-100-100000252box?limit=100",
-  "price": 19500,
+  "price": 20500,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 5 5600g",
   "brand": "AMD",
@@ -2284,7 +2284,7 @@
  {
   "name": "intel core i5 12400",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-i5-12400-processor-bx8071512400?limit=100",
-  "price": 21590,
+  "price": 21090,
   "vendor": "Vedant Computers",
   "standard_name": "intel core i5 12400",
   "brand": "Intel",
@@ -2340,7 +2340,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-9800x3d-4-7-ghz-eight-core-am5-processor",
-  "price": 49450,
+  "price": 46450,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -4944,7 +4944,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-7-270k-plus-bx80768270k?limit=100",
-  "price": 35850,
+  "price": 35490,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5238,7 +5238,7 @@
  {
   "name": "intel core ultra 5 225",
   "link": "https://www.vedantcomputers.com/pc-components/processor/intel-core-ultra-5-225-bx80768225?limit=100",
-  "price": 19690,
+  "price": 19190,
   "vendor": "Vedant Computers",
   "standard_name": "intel core ultra 5 225",
   "brand": "Intel",
@@ -10008,5 +10008,19 @@
   "threads": 128,
   "base_clock_ghz": 3.2,
   "tdp_watt": 350
+ },
+ {
+  "name": "amd ryzen 5 8600g",
+  "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-5-8600g-6-cores-upto-5-0ghz-am5-processor",
+  "price": 19200,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "amd ryzen 5 8600g",
+  "brand": "AMD",
+  "generation": "AMD 8th Generation",
+  "series": "Ryzen 5",
+  "cores": 6,
+  "threads": 12,
+  "base_clock_ghz": 4.3,
+  "tdp_watt": 65
  }
 ]

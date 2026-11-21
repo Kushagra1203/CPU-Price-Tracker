@@ -2178,32 +2178,14 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 5929,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 6675,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 6639,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 6680,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 6650,
      "synthetic": false
     },
     {
@@ -2220,24 +2202,78 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 7182,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 6380,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 6450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 5929,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 6675,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 6639,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 6680,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 6650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 6600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 6102,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 7182,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 6380,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 6540,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 6450,
      "synthetic": false
@@ -2261,13 +2297,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 5484,
+     "price": 5482,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 6480,
      "synthetic": false
@@ -3726,20 +3762,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 8249,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 8850,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 8600,
      "synthetic": false
     },
     {
@@ -3750,18 +3774,54 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 8300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 7299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 8244,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 8850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 8600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 8478,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 8802,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 8800,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 8300,
      "synthetic": false
@@ -3779,7 +3839,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 10800,
      "synthetic": false
@@ -6030,20 +6090,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 9959,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 10695,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 10669,
      "synthetic": false
     },
     {
@@ -6054,20 +6102,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 11100,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "SCL Gaming",
      "price": 11050,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 10422,
      "synthetic": false
     },
     {
@@ -6078,6 +6114,54 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vedant Computers",
+     "price": 10640,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 9959,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 10669,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 10700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 11100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 11050,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 10422,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 10765,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 10640,
      "synthetic": false
@@ -8232,20 +8316,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 12979,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 14100,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 13200,
      "synthetic": false
     },
     {
@@ -8256,24 +8328,60 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 15228,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 12980,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 13100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 12974,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 14100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 13200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 13150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 15228,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 12980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 13200,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 13100,
      "synthetic": false
@@ -8723,9 +8831,15 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 20999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
-     "price": 19500,
+     "price": 20500,
      "synthetic": false
     }
    ]
@@ -10224,24 +10338,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 19459,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 19249,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 20800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 20800,
      "synthetic": false
@@ -10259,7 +10355,37 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 19459,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 19249,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 20800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 20700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 20650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 20500,
      "synthetic": false
@@ -12444,20 +12570,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 13944,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 15195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 15169,
      "synthetic": false
     },
     {
@@ -12468,20 +12582,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 14800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "SCL Gaming",
      "price": 14750,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 14202,
      "synthetic": false
     },
     {
@@ -12491,13 +12593,61 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 13939,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 15195,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 15169,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 15200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 14800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 14750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 14202,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 14145,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 14550,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 14450,
      "synthetic": false
@@ -14754,24 +14904,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 14289,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 15195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 15169,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 15200,
      "synthetic": false
@@ -14790,24 +14922,72 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 15930,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 15050,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 14700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 14289,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 15195,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 15169,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 15200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 14980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 15250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 15930,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 15050,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 14989,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 14700,
      "synthetic": false
@@ -15174,12 +15354,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 23349,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 24390,
      "synthetic": false
@@ -15191,13 +15365,31 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 23344,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 24390,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 24340,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 25920,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 23450,
      "synthetic": false
@@ -15930,12 +16122,18 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 19800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Elitehubs",
      "price": 19995,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "MDComputers",
      "price": 19800,
      "synthetic": false
@@ -18042,32 +18240,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 16599,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 17949,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 17190,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "SCL Gaming",
      "price": 17140,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 18900,
      "synthetic": false
     },
     {
@@ -18077,13 +18251,49 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 16588,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 17949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 17190,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 17140,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 18900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 17935,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 17290,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 17500,
      "synthetic": false
@@ -20268,26 +20478,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 14244,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 15345,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 15329,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 15350,
      "synthetic": false
     },
     {
@@ -20310,18 +20502,60 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 15930,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 15045,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 14239,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 15345,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 15329,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 15350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 15030,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 14980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 15930,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 15045,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 14989,
      "synthetic": false
@@ -22494,20 +22728,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 17399,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 20795,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 20769,
      "synthetic": false
     },
     {
@@ -22530,20 +22752,68 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 20250,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 20229,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 17399,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 20795,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 20769,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 20800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 20000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 19950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 20250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 20229,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 20200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vishal Peripherals",
+     "price": 19200,
      "synthetic": false
     }
    ]
@@ -24792,18 +25062,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 18499,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 20769,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 19700,
      "synthetic": false
@@ -24822,24 +25080,72 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 21546,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 21065,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
-     "vendor": "Vedant Computers",
-     "price": 19890,
+     "vendor": "Vishal Peripherals",
+     "price": 20200,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 18479,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 18499,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 20769,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 19700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 19700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 19650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 21546,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 21065,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 19690,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 20200,
      "synthetic": false
@@ -24852,6 +25158,12 @@
    "history": [
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 23940,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 23940,
      "synthetic": false
@@ -26664,12 +26976,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 22049,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 22895,
      "synthetic": false
@@ -26677,12 +26983,6 @@
     {
      "date": "2026-11-20",
      "vendor": "MDComputers",
-     "price": 22900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
      "price": 22900,
      "synthetic": false
     },
@@ -26700,12 +27000,54 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 21700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 22049,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 22895,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 22900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 22900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 22850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 26780,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 22400,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 21700,
      "synthetic": false
@@ -27438,12 +27780,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 15699,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 16500,
      "synthetic": false
@@ -27456,20 +27792,38 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 15950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 15694,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 16500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 15999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 17172,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 16940,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Vishal Peripherals",
-     "price": 15950,
      "synthetic": false
     }
    ]
@@ -29994,20 +30348,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 35998,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 38194,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 37449,
      "synthetic": false
     },
     {
@@ -30036,30 +30378,78 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "SCL Gaming",
-     "price": 38849,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 40144,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 37315,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 35700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 35998,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 38194,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 37449,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 38199,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 36899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 38849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 38849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 40144,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 37315,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 36900,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 35700,
      "synthetic": false
@@ -30072,6 +30462,12 @@
    "history": [
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 30999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 30999,
      "synthetic": false
@@ -32208,32 +32604,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 25937,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 26295,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 25949,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 26000,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 25800,
      "synthetic": false
     },
     {
@@ -32244,24 +32616,72 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 26400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 21949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 25937,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 26295,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 25949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 26000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 25800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 25750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 26900,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 27081,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 25990,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 26400,
      "synthetic": false
@@ -33690,12 +34110,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 35299,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 36395,
      "synthetic": false
@@ -33719,7 +34133,37 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 35299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 36395,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 36400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 36380,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 36330,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 36390,
      "synthetic": false
@@ -35958,24 +36402,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 38446,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 40195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 39519,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 39200,
      "synthetic": false
@@ -35994,26 +36420,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "SCL Gaming",
-     "price": 39550,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 35964,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 40925,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Vedant Computers",
-     "price": 39190,
      "synthetic": false
     },
     {
@@ -36023,7 +36431,73 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 37698,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 40195,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 39519,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 39200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 39600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 31950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 39550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 35964,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 40925,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 39190,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vishal Peripherals",
+     "price": 29700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 41450,
      "synthetic": false
@@ -36762,6 +37236,30 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 19700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 25900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 25850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 26480,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 19700,
      "synthetic": false
@@ -38190,20 +38688,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 29849,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 30695,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 30100,
      "synthetic": false
     },
     {
@@ -38226,14 +38712,56 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 30090,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 29849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 30695,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 30100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 30590,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 30540,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 29970,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 30090,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vishal Peripherals",
+     "price": 28200,
      "synthetic": false
     }
    ]
@@ -40512,20 +41040,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 27689,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 29395,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 29169,
      "synthetic": false
     },
     {
@@ -40548,30 +41064,84 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "SCL Gaming",
-     "price": 28850,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 30510,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 29190,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
-     "vendor": "Vedant Computers",
-     "price": 29090,
+     "vendor": "Vishal Peripherals",
+     "price": 28450,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 24339,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 27689,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 29395,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 29169,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 28800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 28900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 24990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 28850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 30510,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 29190,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 28790,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 28450,
      "synthetic": false
@@ -42539,12 +43109,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-01",
-     "vendor": "Vishal Peripherals",
-     "price": 49450,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-02",
      "vendor": "Elitehubs",
      "price": 48495,
@@ -42786,24 +43350,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 46498,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 48495,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 47969,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 48000,
      "synthetic": false
@@ -42828,20 +43374,80 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 54162,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 47550,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 43149,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 46498,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 48495,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 47969,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 48000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 47150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 47100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 50976,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 54162,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 47550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 47440,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vishal Peripherals",
+     "price": 46450,
      "synthetic": false
     }
    ]
@@ -44640,24 +45246,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 52899,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 52969,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 53000,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 53000,
      "synthetic": false
@@ -44679,6 +45267,42 @@
      "vendor": "The IT Depot",
      "price": 54165,
      "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 52894,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 52969,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 53000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 52980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 52930,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 54165,
+     "synthetic": false
     }
    ]
   },
@@ -44693,7 +45317,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 15120,
      "synthetic": false
@@ -46962,20 +47586,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 33449,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 34395,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 34369,
      "synthetic": false
     },
     {
@@ -46986,20 +47598,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 34390,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "SCL Gaming",
      "price": 34340,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 37260,
      "synthetic": false
     },
     {
@@ -47010,12 +47610,66 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 33450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 33444,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 34395,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 34369,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 34400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 34390,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 34340,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 37260,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 37350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 34039,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 33450,
      "synthetic": false
@@ -47388,6 +48042,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 66198,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 66198,
      "synthetic": false
@@ -49638,24 +50298,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 38899,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 40999,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 40149,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 40200,
      "synthetic": false
@@ -49674,26 +50316,68 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 45630,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 42130,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
-     "vendor": "Vedant Computers",
-     "price": 40190,
+     "vendor": "Vishal Peripherals",
+     "price": 40200,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
-     "vendor": "Vishal Peripherals",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 38894,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 40999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 40149,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
      "price": 40200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 39500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 39450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 45630,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 42130,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 40190,
      "synthetic": false
     }
    ]
@@ -51240,12 +51924,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 57999,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 59845,
      "synthetic": false
@@ -51270,12 +51948,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 63720,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 60180,
      "synthetic": false
@@ -51284,6 +51956,54 @@
      "date": "2026-11-20",
      "vendor": "Vishal Peripherals",
      "price": 48700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 45394,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 57994,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 59845,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 58990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 58940,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 63720,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 60180,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vishal Peripherals",
+     "price": 45200,
      "synthetic": false
     }
    ]
@@ -53166,24 +53886,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 68989,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 72095,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 71199,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 71200,
      "synthetic": false
@@ -53208,12 +53910,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 75870,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 77030,
      "synthetic": false
@@ -53226,6 +53922,78 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 72200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 62894,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 68989,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 72095,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 71199,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 71200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 71000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 70950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 66960,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 75870,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 77030,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 71000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 72200,
      "synthetic": false
@@ -54996,24 +55764,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 92994,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 97595,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 97600,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 97600,
      "synthetic": false
@@ -55032,18 +55782,60 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 103950,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 98699,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 90688,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 92994,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 97595,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 97600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 97500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 98350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 103950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 98699,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 95700,
      "synthetic": false
@@ -55067,13 +55859,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 118159,
+     "price": 118154,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 127440,
      "synthetic": false
@@ -55794,12 +56586,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 211979,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 250500,
      "synthetic": false
@@ -55812,12 +56598,36 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 212015,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 211974,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 250500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 250450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 272160,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 212015,
      "synthetic": false
@@ -55890,18 +56700,24 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 515369,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 509000,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 515364,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 509000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 510200,
      "synthetic": false
@@ -55926,18 +56742,24 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 154888,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "SCL Gaming",
      "price": 154527,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 154888,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 154527,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 163782,
      "synthetic": false
@@ -56303,7 +57125,19 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 258400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 258350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 272862,
      "synthetic": false
@@ -56670,12 +57504,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 549389,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 518800,
      "synthetic": false
@@ -56687,7 +57515,31 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 502994,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 549389,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 518800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 518750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 545778,
      "synthetic": false
@@ -56717,13 +57569,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 89976,
+     "price": 89968,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 62700,
      "synthetic": false
@@ -56747,13 +57599,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 192889,
+     "price": 192884,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Elitehubs",
      "price": 212600,
      "synthetic": false
@@ -56777,13 +57629,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 164964,
+     "price": 164959,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 175200,
      "synthetic": false
@@ -56807,7 +57659,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
      "price": 399999,
      "synthetic": false
@@ -57168,18 +58020,30 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 271999,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 272500,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 272450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 271999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 272500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 272450,
      "synthetic": false
@@ -57900,12 +58764,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 346859,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 388100,
      "synthetic": false
@@ -57918,6 +58776,30 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 376775,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 346854,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 388100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 388050,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 376775,
      "synthetic": false
@@ -58284,12 +59166,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 672469,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 752000,
      "synthetic": false
@@ -58302,6 +59178,30 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 750200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 672464,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 752000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 751950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 750200,
      "synthetic": false
@@ -58662,12 +59562,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 908569,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 985000,
      "synthetic": false
@@ -58680,6 +59574,30 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 1015200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 908564,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 985000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 984950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 1015200,
      "synthetic": false
@@ -59046,12 +59964,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 199888,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 184000,
      "synthetic": false
@@ -59064,6 +59976,36 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 165200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 184999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 199888,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 184000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 183950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 165200,
      "synthetic": false
@@ -59424,18 +60366,36 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 299889,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 298000,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 297950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 287084,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 299889,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 298000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 297950,
      "synthetic": false
@@ -59796,12 +60756,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 422888,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 428500,
      "synthetic": false
@@ -59813,7 +60767,25 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 422888,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 428500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 428450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 417200,
      "synthetic": false
@@ -60234,12 +61206,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 824888,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 828000,
      "synthetic": false
@@ -60251,7 +61217,31 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 770144,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 824888,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 828000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 827950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 830484,
      "synthetic": false
@@ -60606,18 +61596,30 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 1218499,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "PC Studio",
      "price": 1218600,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 1218550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 1218499,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 1218600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 1218550,
      "synthetic": false
@@ -60636,6 +61638,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 6245,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 6245,
      "synthetic": false
@@ -61380,18 +62388,30 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 9139,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 9145,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 9140,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 9137,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 9145,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "MDComputers",
      "price": 9140,
      "synthetic": false
@@ -62568,32 +63588,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 16088,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 14200,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 14169,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 13600,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 17200,
      "synthetic": false
     },
     {
@@ -62604,12 +63600,54 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 14750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 16088,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 14200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 14169,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 13600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 17200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 14899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 13716,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 14750,
      "synthetic": false
@@ -63696,12 +64734,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 10494,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 10645,
      "synthetic": false
@@ -63714,18 +64746,42 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 10570,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "SCL Gaming",
      "price": 10520,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 10489,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 10645,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 10650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 10570,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 10520,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 11313,
      "synthetic": false
@@ -65910,20 +66966,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 16198,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 16895,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 14419,
      "synthetic": false
     },
     {
@@ -65952,24 +66996,78 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 15012,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 15500,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
-     "vendor": "Vedant Computers",
-     "price": 14440,
+     "vendor": "Vishal Peripherals",
+     "price": 12120,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 16198,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 16895,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 14419,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 14300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 16650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 16999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 12906,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 15012,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 15500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 14290,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 12120,
      "synthetic": false
@@ -67866,20 +68964,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 10189,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 11395,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 11369,
      "synthetic": false
     },
     {
@@ -67902,18 +68988,66 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 10746,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 10595,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 10190,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 10186,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 11395,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 11369,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 11400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 11400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 11990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 10746,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 10595,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 10190,
      "synthetic": false
@@ -68663,7 +69797,19 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 7983,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 7988,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 6966,
      "synthetic": false
@@ -69774,12 +70920,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 14999,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 14845,
      "synthetic": false
@@ -69792,12 +70932,36 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 14790,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 14999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 14845,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 14850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 17172,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 14790,
      "synthetic": false
@@ -70542,18 +71706,30 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 12979,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 13545,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 13550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 12977,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 13545,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "MDComputers",
      "price": 13550,
      "synthetic": false
@@ -70566,6 +71742,12 @@
    "history": [
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 16990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 16990,
      "synthetic": false
@@ -72750,32 +73932,14 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 19269,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 22245,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 21549,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 21100,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 20500,
      "synthetic": false
     },
     {
@@ -72792,20 +73956,74 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 20412,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 19275,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 15299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 19264,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 22245,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 21549,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 21100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 20500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 20450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 17766,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 20412,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 19275,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
-     "price": 21590,
+     "price": 21090,
      "synthetic": false
     }
    ]
@@ -75011,12 +76229,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-15",
-     "vendor": "Vishal Peripherals",
-     "price": 12980,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-18",
      "vendor": "The IT Depot",
      "price": 14445,
@@ -75060,32 +76272,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 13499,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 15595,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 14719,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 14500,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 14300,
      "synthetic": false
     },
     {
@@ -75096,20 +76284,68 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 15066,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 14445,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 13499,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 15595,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 14719,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 14500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 14300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 14250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 15066,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 14445,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 14490,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vishal Peripherals",
+     "price": 12980,
      "synthetic": false
     }
    ]
@@ -75864,18 +77100,30 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 24671,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 22500,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 24700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 24669,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 22500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 24700,
      "synthetic": false
@@ -76257,6 +77505,12 @@
      "vendor": "MDComputers",
      "price": 17700,
      "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 17700,
+     "synthetic": false
     }
    ]
   },
@@ -76626,6 +77880,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 27700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 27700,
      "synthetic": false
@@ -78762,24 +80022,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 17899,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 20719,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 20400,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 20400,
      "synthetic": false
@@ -78804,12 +80046,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 19332,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 30300,
      "synthetic": false
@@ -78821,7 +80057,61 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 17899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 20719,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 18250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 18200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 17550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 19332,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 30300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 18240,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 17900,
      "synthetic": false
@@ -81006,24 +82296,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 15599,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 17095,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 16969,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 17000,
      "synthetic": false
@@ -81042,24 +82314,78 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 16146,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 15410,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 14950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 14399,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 15599,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 17095,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 16969,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 17000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 16250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 18990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 16146,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 15410,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 16990,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 14950,
      "synthetic": false
@@ -81498,6 +82824,18 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "PC Studio",
+     "price": 24900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 24500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "PC Studio",
      "price": 24900,
      "synthetic": false
@@ -83442,44 +84780,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 31389,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 32955,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 32929,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 31800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 31800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 32000,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 31212,
      "synthetic": false
     },
     {
@@ -83489,13 +84791,55 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 31389,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 32955,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 32929,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 31800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 32000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 31212,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 33660,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 29150,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 33500,
      "synthetic": false
@@ -83513,7 +84857,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 10773,
      "synthetic": false
@@ -83531,7 +84875,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 10773,
      "synthetic": false
@@ -85266,25 +86610,7 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 31449,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 34295,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
-     "price": 32500,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
      "price": 32500,
      "synthetic": false
     },
@@ -85296,12 +86622,48 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 34999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 31398,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 34295,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 32500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 32500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 32450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 33426,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 34999,
      "synthetic": false
@@ -86772,38 +88134,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 29679,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 31895,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 31900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 31900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 31730,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 31806,
      "synthetic": false
     },
     {
@@ -86813,13 +88145,49 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 29677,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 31895,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 31730,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 31806,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 30989,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 29700,
      "synthetic": false
@@ -87936,30 +89304,42 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 36795,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 36769,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 36800,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 38500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 36795,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 36769,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 36800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 35532,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 38500,
      "synthetic": false
@@ -88710,24 +90090,24 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 31800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Ezpz Solutions",
      "price": 31729,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "MDComputers",
      "price": 31800,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 31800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 33372,
      "synthetic": false
@@ -89100,6 +90480,12 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 40999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 40999,
      "synthetic": false
@@ -90912,12 +92298,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 38745,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 42495,
      "synthetic": false
@@ -90948,24 +92328,66 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 37746,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 50999,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 38745,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 42495,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 42500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 42300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 42250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 36072,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 37746,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 50999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 35200,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 35200,
      "synthetic": false
@@ -93138,24 +94560,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 31899,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 34295,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 33949,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 32700,
      "synthetic": false
@@ -93174,12 +94578,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 34452,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 34950,
      "synthetic": false
@@ -93191,7 +94589,61 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 31899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 34295,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 33949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 32700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 33500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 33450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 34452,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 34950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 32690,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 31450,
      "synthetic": false
@@ -95136,12 +96588,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 43488,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 46095,
      "synthetic": false
@@ -95172,18 +96618,66 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 44172,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 45150,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 40299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 43484,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 46095,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 44099,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 44150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 43500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 43450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 44172,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 45150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 43990,
      "synthetic": false
@@ -96630,24 +98124,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 37474,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 40998,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 40239,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 40280,
      "synthetic": false
@@ -96665,7 +98141,43 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 37469,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 40998,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 40239,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 40280,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 41000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 40950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 42984,
      "synthetic": false
@@ -96683,7 +98195,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 11286,
      "synthetic": false
@@ -97062,12 +98574,18 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 74078,
+     "vendor": "The IT Depot",
+     "price": 74150,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 74074,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 74150,
      "synthetic": false
@@ -97085,7 +98603,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 32346,
      "synthetic": false
@@ -97103,7 +98621,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
      "price": 33648,
      "synthetic": false
@@ -97121,9 +98639,9 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 53176,
+     "price": 53174,
      "synthetic": false
     }
    ]
@@ -97139,9 +98657,9 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 50626,
+     "price": 50624,
      "synthetic": false
     }
    ]
@@ -97157,7 +98675,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
      "price": 39999,
      "synthetic": false
@@ -97175,9 +98693,9 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 56474,
+     "price": 56469,
      "synthetic": false
     }
    ]
@@ -97559,13 +99077,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Computech Store",
-     "price": 46634,
+     "price": 46629,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 46700,
      "synthetic": false
@@ -99420,12 +100938,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 45998,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 47995,
      "synthetic": false
@@ -99438,36 +100950,60 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "MDComputers",
-     "price": 46900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "PC Studio",
-     "price": 46500,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 49032,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 46950,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 45050,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 45998,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 47995,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 46900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 46500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 49032,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 46950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 46690,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 45050,
      "synthetic": false
@@ -100560,12 +102096,24 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 46100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 47495,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Ezpz Solutions",
      "price": 46849,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "MDComputers",
      "price": 46100,
      "synthetic": false
@@ -102305,7 +103853,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Ezpz Solutions",
      "price": 62989,
      "synthetic": false
@@ -104088,12 +105636,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 19099,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 19200,
      "synthetic": false
@@ -104112,20 +105654,56 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 16686,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 20500,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 18299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 19099,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 19200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 19500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 19450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 16686,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 20500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
-     "price": 19690,
+     "price": 19190,
      "synthetic": false
     }
    ]
@@ -106272,24 +107850,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 13177,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 13995,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 13849,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 13880,
      "synthetic": false
@@ -106308,24 +107868,72 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 13446,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 14545,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 12200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 13177,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 13995,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 13849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 13880,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 13690,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 18450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 13446,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 14545,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 13389,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 12200,
      "synthetic": false
@@ -107417,13 +109025,13 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Elitehubs",
      "price": 24095,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Ezpz Solutions",
      "price": 24049,
      "synthetic": false
@@ -109464,18 +111072,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 20994,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 21849,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 21900,
      "synthetic": false
@@ -109494,12 +111090,54 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "The IT Depot",
+     "price": 28999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 20979,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 20994,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 21849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 21900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 21900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 21850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 23733,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "The IT Depot",
      "price": 28999,
      "synthetic": false
@@ -110598,18 +112236,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 20184,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 20369,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 20400,
      "synthetic": false
@@ -110627,7 +112253,37 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 20182,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 20369,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 20350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 21492,
      "synthetic": false
@@ -112440,24 +114096,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 23299,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 28399,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 25069,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 25100,
      "synthetic": false
@@ -112475,13 +114113,49 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 23299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 28399,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 25069,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 25100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 23400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 23350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 27432,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 24650,
      "synthetic": false
@@ -113916,18 +115590,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 26395,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 23949,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 23500,
      "synthetic": false
@@ -113940,6 +115602,36 @@
     },
     {
      "date": "2026-11-20",
+     "vendor": "SCL Gaming",
+     "price": 23750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 26395,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 23949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 23500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 23800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "SCL Gaming",
      "price": 23750,
      "synthetic": false
@@ -116118,18 +117810,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 31684,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 32699,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 32100,
      "synthetic": false
@@ -116148,20 +117828,56 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 34236,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 33150,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 31684,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 32699,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 32100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 31850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 34236,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 33150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
-     "price": 32289,
+     "price": 32090,
      "synthetic": false
     }
    ]
@@ -117270,24 +118986,36 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 28884,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 29195,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "MDComputers",
+     "price": 29000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 28879,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 29195,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Ezpz Solutions",
      "price": 28949,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "MDComputers",
      "price": 29000,
      "synthetic": false
@@ -119160,24 +120888,6 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 33999,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Elitehubs",
-     "price": 38195,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 35949,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "MDComputers",
      "price": 35500,
      "synthetic": false
@@ -119196,24 +120906,66 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 37152,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 35660,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
-     "vendor": "Vedant Computers",
-     "price": 35850,
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 33999,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 38195,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 35949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 35500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 34800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 34750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 37152,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 35660,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Vedant Computers",
+     "price": 35490,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 32390,
      "synthetic": false
@@ -121470,20 +123222,8 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Computech Store",
-     "price": 59599,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "Elitehubs",
      "price": 61495,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
-     "vendor": "Ezpz Solutions",
-     "price": 61469,
      "synthetic": false
     },
     {
@@ -121512,24 +123252,78 @@
     },
     {
      "date": "2026-11-20",
-     "vendor": "Shweta Computers",
-     "price": 64152,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-20",
      "vendor": "The IT Depot",
      "price": 65500,
      "synthetic": false
     },
     {
      "date": "2026-11-20",
+     "vendor": "Vishal Peripherals",
+     "price": 59990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Computech Store",
+     "price": 59599,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Elitehubs",
+     "price": 61495,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Ezpz Solutions",
+     "price": 61469,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "MDComputers",
+     "price": 61500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "PC Studio",
+     "price": 60900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "SCL Gaming",
+     "price": 60850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 60372,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "Shweta Computers",
+     "price": 64152,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
+     "vendor": "The IT Depot",
+     "price": 65500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-21",
      "vendor": "Vedant Computers",
      "price": 58999,
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Vishal Peripherals",
      "price": 59990,
      "synthetic": false
@@ -121547,7 +123341,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-21",
      "vendor": "Shweta Computers",
      "price": 7533,
      "synthetic": false

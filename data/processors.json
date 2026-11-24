@@ -1892,7 +1892,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://www.vedantcomputers.com/pc-components/processor/amd-ryzen-7-9800x3d-100-100001084wof?limit=100",
-  "price": 47440,
+  "price": 47240,
   "vendor": "Vedant Computers",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -2354,7 +2354,7 @@
  {
   "name": "amd ryzen 5 5600",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-5-5600-6-core-upto-4-2ghz-am4-processor-1",
-  "price": 13100,
+  "price": 12750,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 5600",
   "brand": "AMD",
@@ -2368,7 +2368,7 @@
  {
   "name": "amd ryzen 5 9600x",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-9-9600x-6-core-upto-5-4ghz-am5-processor",
-  "price": 20200,
+  "price": 19700,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 9600x",
   "brand": "AMD",
@@ -2438,7 +2438,7 @@
  {
   "name": "intel core i5 12400f",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i5-12400f-12th-gen-6-core-upto-4-4ghz-lga1700-processor",
-  "price": 12980,
+  "price": 12949,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i5 12400f",
   "brand": "Intel",
@@ -2452,7 +2452,7 @@
  {
   "name": "amd ryzen 9 7900x",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-9-7900x-12-core-upto-5-6ghz-am5-processor",
-  "price": 33450,
+  "price": 33425,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 9 7900x",
   "brand": "AMD",
@@ -2466,7 +2466,7 @@
  {
   "name": "amd ryzen 7 9700x",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-9700x-desktop-8-cores-16-am5-processor-100-100001404wof",
-  "price": 28450,
+  "price": 27500,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 9700x",
   "brand": "AMD",
@@ -2480,7 +2480,7 @@
  {
   "name": "intel core i5 14400f",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i5-14400f-processor",
-  "price": 14950,
+  "price": 14850,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i5 14400f",
   "brand": "Intel",
@@ -2494,7 +2494,7 @@
  {
   "name": "amd ryzen 7 7700x",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-7000-series-ryzen-7-7700x-desktop-processor-8-cores-16-threads-40-mb-cache-4-5-ghz-up-to-5-4-ghz-socket-am5-600-series-chipset-100-100000591wof",
-  "price": 26400,
+  "price": 26000,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 7700x",
   "brand": "AMD",
@@ -2536,7 +2536,7 @@
  {
   "name": "intel core i7 12700",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i7-12700-12th-gen-12-core-upto-4-9ghz-lga1700-processor",
-  "price": 31450,
+  "price": 30700,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i7 12700",
   "brand": "Intel",
@@ -2550,7 +2550,7 @@
  {
   "name": "amd ryzen 7 5700g",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-5700g-8-core-upto-4-6ghz-am4-processor",
-  "price": 21700,
+  "price": 21670,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 5700g",
   "brand": "AMD",
@@ -2564,7 +2564,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i5-14400-desktop-processor-10-cores-up-to-4-7-ghz",
-  "price": 17900,
+  "price": 17600,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -2578,7 +2578,7 @@
  {
   "name": "intel core i9 14900k",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i9-14900k-14th-gen-24-core-upto-6ghz-lga1700-processor",
-  "price": 45050,
+  "price": 44850,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i9 14900k",
   "brand": "Intel",
@@ -2606,7 +2606,7 @@
  {
   "name": "amd ryzen 5 3400g",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-5-3400g-processor-with-radeon-rx-vega-11-graphics",
-  "price": 8300,
+  "price": 8100,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 3400g",
   "brand": "AMD",
@@ -2676,7 +2676,7 @@
  {
   "name": "amd ryzen 7 7800x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-7800x-3d-8-core-upto-5-0ghz-am5-processor",
-  "price": 41450,
+  "price": 38250,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 7800x3d",
   "brand": "AMD",
@@ -2690,7 +2690,7 @@
  {
   "name": "amd ryzen 7 5800x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-5800x3d-gaming-processor",
-  "price": 35700,
+  "price": 34890,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 5800x3d",
   "brand": "AMD",
@@ -2746,7 +2746,7 @@
  {
   "name": "intel core i3 10100f",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i3-10100f-oem-processor",
-  "price": 6245,
+  "price": 7300,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i3 10100f",
   "brand": "Intel",
@@ -2788,7 +2788,7 @@
  {
   "name": "intel core i3 14100",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i3-14100-oem-processor",
-  "price": 12120,
+  "price": 12200,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i3 14100",
   "brand": "Intel",
@@ -2802,7 +2802,7 @@
  {
   "name": "amd ryzen 9 9950x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-9-9950x-3d-16-cores-upto-5-7-ghz-am5-oem-processor",
-  "price": 62450,
+  "price": 61990,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 9 9950x3d",
   "brand": "AMD",
@@ -4440,7 +4440,7 @@
  {
   "name": "intel core i5 12400",
   "link": "https://www.pcstudio.in/product/intel-core-i5-12400-12th-gen-alder-lake-processor/",
-  "price": 20500,
+  "price": 20900,
   "vendor": "PC Studio",
   "standard_name": "intel core i5 12400",
   "brand": "Intel",
@@ -5336,7 +5336,7 @@
  {
   "name": "intel core i5 14600k",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i5-14600k-14th-gen-14-core-upto-5-3ghz-lga1700-processor",
-  "price": 33500,
+  "price": 28000,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i5 14600k",
   "brand": "Intel",
@@ -5518,7 +5518,7 @@
  {
   "name": "intel core i7 12700f",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i7-12700f-12th-gen-12-core-upto-4-9ghz-lga1700-processor",
-  "price": 29700,
+  "price": 29250,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i7 12700f",
   "brand": "Intel",
@@ -5532,7 +5532,7 @@
  {
   "name": "intel core i7 14700f",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-i7-14700f-desktop-processor",
-  "price": 31450,
+  "price": 30499,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core i7 14700f",
   "brand": "Intel",
@@ -5574,7 +5574,7 @@
  {
   "name": "amd ryzen 9 9950x3d2",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-9-9950x3d2-dual-edition-desktop-processor",
-  "price": 95700,
+  "price": 92900,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 9 9950x3d2",
   "brand": "AMD",
@@ -5602,7 +5602,7 @@
  {
   "name": "amd ryzen 5 5600x",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-5-5600x-6-core-upto-3-7ghz-am4-processor",
-  "price": 14450,
+  "price": 13900,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 5600x",
   "brand": "AMD",
@@ -5616,7 +5616,7 @@
  {
   "name": "amd ryzen 5 7500x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-5-7500x3d-am5-desktop-processor",
-  "price": 23450,
+  "price": 22990,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 5 7500x3d",
   "brand": "AMD",
@@ -5630,7 +5630,7 @@
  {
   "name": "amd ryzen 7 5700x",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-7-5700x-oem-processor",
-  "price": 15950,
+  "price": 15670,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 7 5700x",
   "brand": "AMD",
@@ -5658,7 +5658,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-ultra-7-270k-plus-oem-processor-24-core-24-thread-up-to-5-50ghz-36mb-cache-lga1851",
-  "price": 32390,
+  "price": 32700,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5700,7 +5700,7 @@
  {
   "name": "amd ryzen 9 9950x3d",
   "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-9-9950x-3d-16-cores-upto-5-7-ghz-am5-processor",
-  "price": 72200,
+  "price": 69000,
   "vendor": "Vishal Peripherals",
   "standard_name": "amd ryzen 9 9950x3d",
   "brand": "AMD",
@@ -5770,7 +5770,7 @@
  {
   "name": "amd ryzen 5 5500",
   "link": "https://computechstore.in/product/amd-ryzen-5-5500-5th-gen-processor/",
-  "price": 9959,
+  "price": 9789,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 5 5500",
   "brand": "AMD",
@@ -5896,7 +5896,7 @@
  {
   "name": "amd ryzen 5 9600x",
   "link": "https://computechstore.in/product/amd-ryzen-5-9600x-processor/",
-  "price": 18499,
+  "price": 18298,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 5 9600x",
   "brand": "AMD",
@@ -5938,7 +5938,7 @@
  {
   "name": "amd ryzen 7 5700x",
   "link": "https://computechstore.in/product/amd-ryzen-7-5700x-100-100000926wof-oem/",
-  "price": 15694,
+  "price": 15672,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 7 5700x",
   "brand": "AMD",
@@ -5980,7 +5980,7 @@
  {
   "name": "amd ryzen 7 7700x",
   "link": "https://computechstore.in/product/amd-ryzen-7-7700x/",
-  "price": 25937,
+  "price": 25123,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 7 7700x",
   "brand": "AMD",
@@ -6008,7 +6008,7 @@
  {
   "name": "amd ryzen 7 7800x3d",
   "link": "https://computechstore.in/product/amd-ryzen-7-7800x3d-processor/",
-  "price": 37698,
+  "price": 37696,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 7 7800x3d",
   "brand": "AMD",
@@ -6036,7 +6036,7 @@
  {
   "name": "amd ryzen 7 9700x",
   "link": "https://computechstore.in/product/amd-ryzen-7-9700x-processor/",
-  "price": 27689,
+  "price": 27499,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 7 9700x",
   "brand": "AMD",
@@ -6064,7 +6064,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://computechstore.in/product/amd-ryzen-7-9800x3d-100-100001084wof/",
-  "price": 46498,
+  "price": 45799,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -6078,7 +6078,7 @@
  {
   "name": "amd ryzen 7 9800x3d",
   "link": "https://computechstore.in/product/amd-ryzen-7-9800x3d-100-100001084wof-oem/",
-  "price": 43149,
+  "price": 42998,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 7 9800x3d",
   "brand": "AMD",
@@ -6106,7 +6106,7 @@
  {
   "name": "amd ryzen 9 7900x",
   "link": "https://computechstore.in/product/amd-ryzen-9-7900x/",
-  "price": 33444,
+  "price": 33439,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 9 7900x",
   "brand": "AMD",
@@ -6120,7 +6120,7 @@
  {
   "name": "amd ryzen 9 9900x",
   "link": "https://computechstore.in/product/amd-ryzen-9-9900x-processor/",
-  "price": 38894,
+  "price": 38889,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 9 9900x",
   "brand": "AMD",
@@ -6134,7 +6134,7 @@
  {
   "name": "amd ryzen 9 9950x3d2",
   "link": "https://computechstore.in/product/amd-ryzen-9-9950x3d2-dual-edition-desktop-processor/",
-  "price": 92994,
+  "price": 92989,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 9 9950x3d2",
   "brand": "AMD",
@@ -6204,7 +6204,7 @@
  {
   "name": "amd ryzen 9 9950x",
   "link": "https://computechstore.in/product/amd-ryzen-9-9950x-oem-pack/",
-  "price": 45394,
+  "price": 45199,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 9 9950x",
   "brand": "AMD",
@@ -6638,7 +6638,7 @@
  {
   "name": "intel core i5 12400",
   "link": "https://computechstore.in/product/intel-core-i5-12400-processor/",
-  "price": 19264,
+  "price": 19196,
   "vendor": "Computech Store",
   "standard_name": "intel core i5 12400",
   "brand": "Intel",
@@ -6708,7 +6708,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://computechstore.in/product/intel-core-i5-14400/",
-  "price": 17899,
+  "price": 17896,
   "vendor": "Computech Store",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -6722,7 +6722,7 @@
  {
   "name": "intel core i5 14600k",
   "link": "https://computechstore.in/product/intel-core-i5-14600k/",
-  "price": 31389,
+  "price": 29149,
   "vendor": "Computech Store",
   "standard_name": "intel core i5 14600k",
   "brand": "Intel",
@@ -6792,7 +6792,7 @@
  {
   "name": "intel core i7 14700k",
   "link": "https://computechstore.in/product/intel-core-i7-14700k/",
-  "price": 43484,
+  "price": 43382,
   "vendor": "Computech Store",
   "standard_name": "intel core i7 14700k",
   "brand": "Intel",
@@ -6932,7 +6932,7 @@
  {
   "name": "intel core i9 14900",
   "link": "https://computechstore.in/product/intel-core-i9-14900/",
-  "price": 56469,
+  "price": 56419,
   "vendor": "Computech Store",
   "standard_name": "intel core i9 14900",
   "brand": "Intel",
@@ -6946,7 +6946,7 @@
  {
   "name": "intel core ultra 5 225f",
   "link": "https://computechstore.in/product/intel-core-ultra-5-225f/",
-  "price": 13177,
+  "price": 13169,
   "vendor": "Computech Store",
   "standard_name": "intel core ultra 5 225f",
   "brand": "Intel",
@@ -7016,7 +7016,7 @@
  {
   "name": "intel core ultra 5 245k",
   "link": "https://computechstore.in/product/intel-core-ultra-5-245k-lga1851-oem-desktop-processor-52-ghz-14-cores-14-threads/",
-  "price": 20979,
+  "price": 20974,
   "vendor": "Computech Store",
   "standard_name": "intel core ultra 5 245k",
   "brand": "Intel",
@@ -7030,7 +7030,7 @@
  {
   "name": "intel core ultra 5 250k",
   "link": "https://computechstore.in/product/intel-core-ultra-5-250k-plus-processor/",
-  "price": 23299,
+  "price": 23188,
   "vendor": "Computech Store",
   "standard_name": "intel core ultra 5 250k",
   "brand": "Intel",
@@ -7072,7 +7072,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://computechstore.in/product/intel-core-ultra-7-270k-plus-processor/",
-  "price": 33999,
+  "price": 33903,
   "vendor": "Computech Store",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -9088,7 +9088,7 @@
  {
   "name": "intel core i5 12400",
   "link": "https://sclgaming.in/product/intel-core-i5-12400-desktop-processor-cores-6-threads-12-up-to-4-40-ghz-18m-cache/",
-  "price": 20450,
+  "price": 20850,
   "vendor": "SCL Gaming",
   "standard_name": "intel core i5 12400",
   "brand": "Intel",
@@ -10022,5 +10022,33 @@
   "threads": 12,
   "base_clock_ghz": 4.3,
   "tdp_watt": 65
+ },
+ {
+  "name": "amd ryzen 9 9950x3d",
+  "link": "https://vishalperipherals.com/collections/processors/products/amd-ryzen-9-9950x-3d-oem-16-cores-32-threads-5-7ghz-128mb-cache-am5-socket-processor",
+  "price": 88990,
+  "vendor": "Vishal Peripherals",
+  "standard_name": "amd ryzen 9 9950x3d",
+  "brand": "AMD",
+  "generation": "AMD 9th Generation",
+  "series": "Ryzen 9",
+  "cores": 16,
+  "threads": 32,
+  "base_clock_ghz": 4.1,
+  "tdp_watt": 170
+ },
+ {
+  "name": "intel core i9 14900kf",
+  "link": "https://computechstore.in/product/intel-core-i9-14900kf-desktop-processor/",
+  "price": 45449,
+  "vendor": "Computech Store",
+  "standard_name": "intel core i9 14900kf",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i9",
+  "cores": 24,
+  "threads": 32,
+  "base_clock_ghz": 3.2,
+  "tdp_watt": 125
  }
 ]

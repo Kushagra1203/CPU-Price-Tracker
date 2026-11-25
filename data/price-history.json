@@ -2322,12 +2322,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 6650,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 6600,
      "synthetic": false
@@ -2336,12 +2330,6 @@
      "date": "2026-11-24",
      "vendor": "Shweta Computers",
      "price": 6102,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 7182,
      "synthetic": false
     },
     {
@@ -2378,6 +2366,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 6680,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 6650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 6600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 6102,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 7182,
      "synthetic": false
     },
     {
@@ -2441,15 +2453,15 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 6480,
+     "date": "2026-11-25",
+     "vendor": "Computech Store",
+     "price": 5482,
      "synthetic": false
     },
     {
      "date": "2026-11-25",
-     "vendor": "Computech Store",
-     "price": 5482,
+     "vendor": "Shweta Computers",
+     "price": 6480,
      "synthetic": false
     }
    ]
@@ -4008,20 +4020,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 8600,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "Shweta Computers",
      "price": 8478,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 8802,
      "synthetic": false
     },
     {
@@ -4046,6 +4046,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 8850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 8600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 8478,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 8802,
      "synthetic": false
     },
     {
@@ -4085,7 +4103,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 10800,
      "synthetic": false
@@ -6444,20 +6462,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 11100,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 11050,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 10422,
      "synthetic": false
     },
     {
@@ -6494,6 +6500,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 10700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 11100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 11050,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 10422,
      "synthetic": false
     },
     {
@@ -8760,20 +8784,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 13200,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 13150,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 15228,
      "synthetic": false
     },
     {
@@ -8802,6 +8814,24 @@
     },
     {
      "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 13200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 13150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 15228,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "The IT Depot",
      "price": 12980,
      "synthetic": false
@@ -8810,6 +8840,12 @@
      "date": "2026-11-25",
      "vendor": "Vedant Computers",
      "price": 13200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Vishal Peripherals",
+     "price": 12750,
      "synthetic": false
     }
    ]
@@ -10892,6 +10928,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 20800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 20700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 20650,
      "synthetic": false
     },
     {
@@ -13212,20 +13260,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 14800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 14750,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 14202,
      "synthetic": false
     },
     {
@@ -13256,6 +13292,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 15200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 14800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 14750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 14202,
      "synthetic": false
     },
     {
@@ -15666,12 +15720,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 15930,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 15050,
      "synthetic": false
@@ -15704,6 +15752,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 15200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 14980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 15250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 15930,
      "synthetic": false
     },
     {
@@ -16157,15 +16223,27 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 25920,
+     "date": "2026-11-25",
+     "vendor": "Computech Store",
+     "price": 23344,
      "synthetic": false
     },
     {
      "date": "2026-11-25",
-     "vendor": "Computech Store",
-     "price": 23344,
+     "vendor": "PC Studio",
+     "price": 24390,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 24340,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 25920,
      "synthetic": false
     },
     {
@@ -19122,20 +19200,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 17190,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 17140,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 18900,
      "synthetic": false
     },
     {
@@ -19160,6 +19226,24 @@
      "date": "2026-11-25",
      "vendor": "Ezpz Solutions",
      "price": 17949,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 17190,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 17140,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 18900,
      "synthetic": false
     },
     {
@@ -21492,12 +21576,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 15930,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 15045,
      "synthetic": false
@@ -21524,6 +21602,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 15350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 15030,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 14980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 15930,
      "synthetic": false
     },
     {
@@ -23850,12 +23946,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 20250,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 20229,
      "synthetic": false
@@ -23882,6 +23972,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 20800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 20000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 19950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 20250,
      "synthetic": false
     },
     {
@@ -26286,12 +26394,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 21546,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 21065,
      "synthetic": false
@@ -26324,6 +26426,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 19700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 19700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 19650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 21546,
      "synthetic": false
     },
     {
@@ -26364,6 +26484,12 @@
     },
     {
      "date": "2026-11-24",
+     "vendor": "SCL Gaming",
+     "price": 23940,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "SCL Gaming",
      "price": 23940,
      "synthetic": false
@@ -28284,12 +28410,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 22900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 22850,
      "synthetic": false
@@ -28322,6 +28442,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 22900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 22900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 22850,
      "synthetic": false
     },
     {
@@ -29147,15 +29279,27 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 17172,
+     "date": "2026-11-25",
+     "vendor": "Computech Store",
+     "price": 15672,
      "synthetic": false
     },
     {
      "date": "2026-11-25",
-     "vendor": "Computech Store",
-     "price": 15672,
+     "vendor": "PC Studio",
+     "price": 16500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 15999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 17172,
      "synthetic": false
     },
     {
@@ -31854,18 +31998,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "SCL Gaming",
-     "price": 38849,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 40144,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 37315,
      "synthetic": false
@@ -31898,6 +32030,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 37625,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 36899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 38849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 38849,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 40144,
      "synthetic": false
     },
     {
@@ -31938,6 +32094,12 @@
     },
     {
      "date": "2026-11-24",
+     "vendor": "SCL Gaming",
+     "price": 30999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "SCL Gaming",
      "price": 30999,
      "synthetic": false
@@ -34212,26 +34374,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 25800,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 25750,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "SCL Gaming",
-     "price": 26900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 27081,
      "synthetic": false
     },
     {
@@ -34268,6 +34412,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 26000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 25800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 25750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 26900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 27081,
      "synthetic": false
     },
     {
@@ -35816,6 +35984,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 36299,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 36380,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 36330,
      "synthetic": false
     },
     {
@@ -38232,18 +38412,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "SCL Gaming",
-     "price": 39550,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 35964,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 40925,
      "synthetic": false
@@ -38276,6 +38444,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 39200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 39600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 31950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 39550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 35964,
      "synthetic": false
     },
     {
@@ -39086,6 +39278,18 @@
      "date": "2026-11-24",
      "vendor": "Vishal Peripherals",
      "price": 19700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 25900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 25850,
      "synthetic": false
     },
     {
@@ -40638,12 +40842,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 29970,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 30090,
      "synthetic": false
@@ -40670,6 +40868,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 30100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 30590,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 30540,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 29970,
      "synthetic": false
     },
     {
@@ -43128,18 +43344,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "SCL Gaming",
-     "price": 28850,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 30510,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 29190,
      "synthetic": false
@@ -43178,6 +43382,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 28800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 28900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 24990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 28850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 30510,
      "synthetic": false
     },
     {
@@ -45564,12 +45792,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 54162,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 47550,
      "synthetic": false
@@ -45602,6 +45824,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 48000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 47150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 47100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 50976,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 54162,
      "synthetic": false
     },
     {
@@ -47532,6 +47778,18 @@
     },
     {
      "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 52980,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 52930,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "The IT Depot",
      "price": 54165,
      "synthetic": false
@@ -47561,7 +47819,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 15120,
      "synthetic": false
@@ -49962,20 +50220,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 34390,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 34340,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 37260,
      "synthetic": false
     },
     {
@@ -50012,6 +50258,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 34199,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 34390,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 34340,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 37260,
      "synthetic": false
     },
     {
@@ -52794,12 +53058,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 45630,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 42130,
      "synthetic": false
@@ -52832,6 +53090,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 40200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 39500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 39450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 45630,
      "synthetic": false
     },
     {
@@ -54516,12 +54792,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 63720,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 60180,
      "synthetic": false
@@ -54548,6 +54818,24 @@
      "date": "2026-11-25",
      "vendor": "Elitehubs",
      "price": 59845,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 58990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 58940,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 63720,
      "synthetic": false
     },
     {
@@ -56622,12 +56910,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 75870,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 77030,
      "synthetic": false
@@ -56678,6 +56960,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 71200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 71000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 70950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 66960,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 75870,
      "synthetic": false
     },
     {
@@ -58584,12 +58890,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "MDComputers",
-     "price": 97600,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "PC Studio",
      "price": 97500,
      "synthetic": false
@@ -58598,12 +58898,6 @@
      "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 98350,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 103950,
      "synthetic": false
     },
     {
@@ -58628,6 +58922,30 @@
      "date": "2026-11-25",
      "vendor": "Elitehubs",
      "price": 97595,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "MDComputers",
+     "price": 97600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 97500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 98350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 103950,
      "synthetic": false
     },
     {
@@ -58685,15 +59003,15 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 127440,
+     "date": "2026-11-25",
+     "vendor": "Computech Store",
+     "price": 118154,
      "synthetic": false
     },
     {
      "date": "2026-11-25",
-     "vendor": "Computech Store",
-     "price": 118154,
+     "vendor": "Shweta Computers",
+     "price": 127440,
      "synthetic": false
     }
    ]
@@ -59484,12 +59802,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 272160,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 212015,
      "synthetic": false
@@ -59498,6 +59810,24 @@
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 211974,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 250500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 250450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 272160,
      "synthetic": false
     },
     {
@@ -59693,15 +60023,21 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 163782,
+     "date": "2026-11-25",
+     "vendor": "Computech Store",
+     "price": 154888,
      "synthetic": false
     },
     {
      "date": "2026-11-25",
-     "vendor": "Computech Store",
-     "price": 154888,
+     "vendor": "SCL Gaming",
+     "price": 154527,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 163782,
      "synthetic": false
     }
    ]
@@ -60101,7 +60437,19 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 258400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 258350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 272862,
      "synthetic": false
@@ -60539,12 +60887,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 545778,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 502994,
@@ -60554,6 +60896,24 @@
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 549389,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 518800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 518750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 545778,
      "synthetic": false
     }
    ]
@@ -61166,6 +61526,18 @@
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 271999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 272500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 272450,
      "synthetic": false
     }
    ]
@@ -61956,6 +62328,18 @@
     },
     {
      "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 388100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 388050,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "The IT Depot",
      "price": 376775,
      "synthetic": false
@@ -62394,6 +62778,18 @@
     },
     {
      "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 752000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 751950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "Vishal Peripherals",
      "price": 750200,
      "synthetic": false
@@ -62822,6 +63218,18 @@
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 908564,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 985000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 984950,
      "synthetic": false
     },
     {
@@ -63273,6 +63681,18 @@
      "vendor": "Computech Store",
      "price": 199888,
      "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 184000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 183950,
+     "synthetic": false
     }
    ]
   },
@@ -63699,6 +64119,18 @@
      "vendor": "Computech Store",
      "price": 299889,
      "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 298000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 297950,
+     "synthetic": false
     }
    ]
   },
@@ -64118,6 +64550,18 @@
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 422888,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 428500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 428450,
      "synthetic": false
     },
     {
@@ -64626,6 +65070,18 @@
     },
     {
      "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 828000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 827950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "The IT Depot",
      "price": 830484,
      "synthetic": false
@@ -65030,6 +65486,18 @@
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 1218499,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 1218600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 1218550,
      "synthetic": false
     }
    ]
@@ -67146,20 +67614,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 17200,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 14899,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 13716,
      "synthetic": false
     },
     {
@@ -67190,6 +67646,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 13600,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 17200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 14899,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 13716,
      "synthetic": false
     },
     {
@@ -68364,20 +68838,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 10570,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 10520,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 11313,
      "synthetic": false
     },
     {
@@ -68396,6 +68858,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 10650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 10570,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 10520,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 11313,
      "synthetic": false
     }
    ]
@@ -70740,12 +71220,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 15012,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 15500,
      "synthetic": false
@@ -70778,6 +71252,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 14300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 16650,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 16999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 12906,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 15012,
      "synthetic": false
     },
     {
@@ -72822,12 +73320,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 10746,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 10595,
      "synthetic": false
@@ -72854,6 +73346,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 11400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 11400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 11990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 10746,
      "synthetic": false
     },
     {
@@ -73649,12 +74159,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 6966,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-25",
      "vendor": "Elitehubs",
      "price": 7983,
@@ -73664,6 +74168,12 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 7699,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 6966,
      "synthetic": false
     }
    ]
@@ -74844,12 +75354,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 17172,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 14790,
      "synthetic": false
@@ -74870,6 +75374,12 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 14850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 17172,
      "synthetic": false
     },
     {
@@ -75702,6 +76212,12 @@
     },
     {
      "date": "2026-11-24",
+     "vendor": "SCL Gaming",
+     "price": 16990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
      "vendor": "SCL Gaming",
      "price": 16990,
      "synthetic": false
@@ -78030,12 +78546,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 20900,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 20850,
      "synthetic": false
@@ -78044,12 +78554,6 @@
      "date": "2026-11-24",
      "vendor": "Shweta Computers",
      "price": 17766,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 20412,
      "synthetic": false
     },
     {
@@ -78086,6 +78590,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 21100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 20900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 20850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 17766,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 20412,
      "synthetic": false
     },
     {
@@ -80472,20 +81000,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 14300,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 14250,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 15066,
      "synthetic": false
     },
     {
@@ -80516,6 +81032,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 14500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 14300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 14250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 15066,
      "synthetic": false
     },
     {
@@ -84414,12 +84948,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 19332,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 30300,
      "synthetic": false
@@ -84446,6 +84974,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 18250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 18200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 17550,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 19332,
      "synthetic": false
     },
     {
@@ -86796,12 +87348,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 16146,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 15410,
      "synthetic": false
@@ -86840,6 +87386,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 17000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 16250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 18990,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 16146,
      "synthetic": false
     },
     {
@@ -87326,6 +87890,12 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 24500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 24900,
      "synthetic": false
     }
    ]
@@ -89382,18 +89952,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 32000,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 31212,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 33660,
      "synthetic": false
@@ -89420,6 +89978,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 31800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 32000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 31212,
      "synthetic": false
     },
     {
@@ -89465,7 +90035,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 10773,
      "synthetic": false
@@ -89495,7 +90065,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 10773,
      "synthetic": false
@@ -91320,20 +91890,8 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 32500,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "SCL Gaming",
      "price": 32450,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 33426,
      "synthetic": false
     },
     {
@@ -91364,6 +91922,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 32500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 32500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 32450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 33426,
      "synthetic": false
     },
     {
@@ -92946,18 +93522,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 31730,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 31806,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 31900,
      "synthetic": false
@@ -92978,6 +93542,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 31730,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 31806,
      "synthetic": false
     },
     {
@@ -94176,12 +94752,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 35532,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 38500,
      "synthetic": false
@@ -94202,6 +94772,12 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 36800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 35532,
      "synthetic": false
     },
     {
@@ -94997,12 +95573,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 33372,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-25",
      "vendor": "Ezpz Solutions",
      "price": 31729,
@@ -95012,6 +95582,12 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 31800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 33372,
      "synthetic": false
     }
    ]
@@ -97362,12 +97938,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 37746,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 50999,
      "synthetic": false
@@ -97388,6 +97958,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 42500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 42300,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 42250,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 36072,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 37746,
      "synthetic": false
     },
     {
@@ -99714,12 +100308,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 34452,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 34950,
      "synthetic": false
@@ -99752,6 +100340,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 32700,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 33500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 33450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 34452,
      "synthetic": false
     },
     {
@@ -101862,12 +102468,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 44172,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 45150,
      "synthetic": false
@@ -101900,6 +102500,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 44150,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 43500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 43450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 44172,
      "synthetic": false
     },
     {
@@ -103457,12 +104075,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 42984,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 37469,
@@ -103484,6 +104096,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 38999,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 41000,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 40950,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 42984,
      "synthetic": false
     }
    ]
@@ -103511,7 +104141,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 11286,
      "synthetic": false
@@ -103955,7 +104585,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 32346,
      "synthetic": false
@@ -106482,18 +107112,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "PC Studio",
-     "price": 46500,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 49032,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 46950,
      "synthetic": false
@@ -106520,6 +107138,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 46900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 46500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 49032,
      "synthetic": false
     },
     {
@@ -111342,12 +111972,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 16686,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 20500,
      "synthetic": false
@@ -111368,6 +111992,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 19200,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 19500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 19450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 16686,
      "synthetic": false
     },
     {
@@ -113664,12 +114306,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 13446,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 14545,
      "synthetic": false
@@ -113696,6 +114332,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 13599,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 13690,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 18450,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 13446,
      "synthetic": false
     },
     {
@@ -116982,12 +117636,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 23733,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 28999,
      "synthetic": false
@@ -117014,6 +117662,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 21900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 21900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 21850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 23733,
      "synthetic": false
     },
     {
@@ -118205,12 +118871,6 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 21492,
-     "synthetic": false
-    },
-    {
      "date": "2026-11-25",
      "vendor": "Computech Store",
      "price": 20182,
@@ -118226,6 +118886,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 20400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 20350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 21492,
      "synthetic": false
     }
    ]
@@ -120144,12 +120822,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 27432,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "Vedant Computers",
      "price": 24650,
      "synthetic": false
@@ -120176,6 +120848,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 25100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 23400,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 23350,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 27432,
      "synthetic": false
     },
     {
@@ -121706,6 +122396,18 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 23500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 23800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 23750,
      "synthetic": false
     }
    ]
@@ -123996,12 +124698,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 34236,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 33150,
      "synthetic": false
@@ -124022,6 +124718,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 32100,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 31900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 31850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 34236,
      "synthetic": false
     },
     {
@@ -127230,12 +127944,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 37152,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 35660,
      "synthetic": false
@@ -127262,6 +127970,24 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 35500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 34800,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 34750,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 37152,
      "synthetic": false
     },
     {
@@ -129696,12 +130422,6 @@
     },
     {
      "date": "2026-11-24",
-     "vendor": "Shweta Computers",
-     "price": 64152,
-     "synthetic": false
-    },
-    {
-     "date": "2026-11-24",
      "vendor": "The IT Depot",
      "price": 65500,
      "synthetic": false
@@ -129728,6 +130448,30 @@
      "date": "2026-11-25",
      "vendor": "MDComputers",
      "price": 61500,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "PC Studio",
+     "price": 60900,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "SCL Gaming",
+     "price": 60850,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 60372,
+     "synthetic": false
+    },
+    {
+     "date": "2026-11-25",
+     "vendor": "Shweta Computers",
+     "price": 64152,
      "synthetic": false
     },
     {
@@ -129767,7 +130511,7 @@
      "synthetic": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "vendor": "Shweta Computers",
      "price": 7533,
      "synthetic": false

@@ -128,7 +128,7 @@
  {
   "name": "amd ryzen 5 9600x",
   "link": "https://elitehubs.com/products/amd-ryzen-5-9600x-9th-generation-processor-5-4-ghz-6-cores-12-threads_",
-  "price": 21645,
+  "price": 20499,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 5 9600x",
   "brand": "AMD",
@@ -282,7 +282,7 @@
  {
   "name": "intel core i9 14900k",
   "link": "https://elitehubs.com/products/intel-core-i9-14900k-processor",
-  "price": 47995,
+  "price": 47199,
   "vendor": "Elitehubs",
   "standard_name": "intel core i9 14900k",
   "brand": "Intel",
@@ -324,7 +324,7 @@
  {
   "name": "intel core ultra 5 245k",
   "link": "https://elitehubs.com/products/intel-core-ultra-245k-5th-generation-processor-5-2-ghz-14-cores-14-threads",
-  "price": 22245,
+  "price": 22050,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 5 245k",
   "brand": "Intel",
@@ -338,7 +338,7 @@
  {
   "name": "intel core ultra 7 265k",
   "link": "https://elitehubs.com/products/intel-core-ultra-265k-7th-generation-processor-5-5-ghz-20-cores-20-threads",
-  "price": 33495,
+  "price": 32999,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 7 265k",
   "brand": "Intel",
@@ -3376,7 +3376,7 @@
  {
   "name": "intel core ultra 7 265kf",
   "link": "https://elitehubs.com/products/intel-core-ultra-265kf-7-generation-processor-5-50-ghz-20-core-20-threads",
-  "price": 29195,
+  "price": 28999,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 7 265kf",
   "brand": "Intel",
@@ -3390,7 +3390,7 @@
  {
   "name": "intel core i7 14700k",
   "link": "https://elitehubs.com/products/intel-core-i7-14700k-processor",
-  "price": 46095,
+  "price": 44499,
   "vendor": "Elitehubs",
   "standard_name": "intel core i7 14700k",
   "brand": "Intel",
@@ -3460,7 +3460,7 @@
  {
   "name": "intel core i5 14400",
   "link": "https://elitehubs.com/products/intel-core-i5-14400-processor",
-  "price": 23595,
+  "price": 19199,
   "vendor": "Elitehubs",
   "standard_name": "intel core i5 14400",
   "brand": "Intel",
@@ -3558,7 +3558,7 @@
  {
   "name": "intel core i7 14700f",
   "link": "https://elitehubs.com/products/intel-i7-14700f-processor",
-  "price": 34295,
+  "price": 33499,
   "vendor": "Elitehubs",
   "standard_name": "intel core i7 14700f",
   "brand": "Intel",
@@ -3586,7 +3586,7 @@
  {
   "name": "intel core i5 14600k",
   "link": "https://elitehubs.com/products/intel-core-i5-14600k-processor",
-  "price": 32955,
+  "price": 32399,
   "vendor": "Elitehubs",
   "standard_name": "intel core i5 14600k",
   "brand": "Intel",
@@ -3614,7 +3614,7 @@
  {
   "name": "amd ryzen 7 7800x3d",
   "link": "https://elitehubs.com/products/amd-ryzen-7-7800x3d-processor",
-  "price": 40195,
+  "price": 39800,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 7 7800x3d",
   "brand": "AMD",
@@ -3684,7 +3684,7 @@
  {
   "name": "amd ryzen 9 9950x3d",
   "link": "https://elitehubs.com/products/amd-ryzen-9-9950x3d-9th-generation-processors-5-7ghz-16core-32-threads",
-  "price": 72095,
+  "price": 71199,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 9 9950x3d",
   "brand": "AMD",
@@ -3698,7 +3698,7 @@
  {
   "name": "intel core ultra 5 225",
   "link": "https://elitehubs.com/products/intel-core-ultra-5-225-processor-4-9-ghz-10-core-10-threads",
-  "price": 20495,
+  "price": 19999,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 5 225",
   "brand": "Intel",
@@ -3712,7 +3712,7 @@
  {
   "name": "amd ryzen 9 9900x",
   "link": "https://elitehubs.com/products/amd-ryzen-9-9900x-5th-generation-processor-4-4-ghz-12-cores-24-threads",
-  "price": 40999,
+  "price": 40499,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 9 9900x",
   "brand": "AMD",
@@ -3726,7 +3726,7 @@
  {
   "name": "amd ryzen 7 5800x3d",
   "link": "https://elitehubs.com/products/amd-ryzen-7-5800x3d-5th-generation-10th-anniversary-edition-processor-4-5-ghz-8-cores-16-threads",
-  "price": 38194,
+  "price": 37999,
   "vendor": "Elitehubs",
   "standard_name": "amd ryzen 7 5800x3d",
   "brand": "AMD",
@@ -4566,7 +4566,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://elitehubs.com/products/intel-core-ultra-7-270k-plus-processor-5-5-ghz-24-core-24-threads",
-  "price": 38195,
+  "price": 36000,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -4580,7 +4580,7 @@
  {
   "name": "intel core ultra 5 250k",
   "link": "https://elitehubs.com/products/intel-core-ultra-5-250k-plus-processor-5-3-ghz-18-core-18-threads",
-  "price": 28399,
+  "price": 25300,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 5 250k",
   "brand": "Intel",
@@ -4594,7 +4594,7 @@
  {
   "name": "intel core ultra 5 250kf",
   "link": "https://elitehubs.com/products/intel-core-ultra-5-250kf-plus-processor-5-3-ghz-18-core-18-threads",
-  "price": 26395,
+  "price": 24199,
   "vendor": "Elitehubs",
   "standard_name": "intel core ultra 5 250kf",
   "brand": "Intel",
@@ -5252,7 +5252,7 @@
  {
   "name": "intel core ultra 9 285k",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-ultra-9-285k-processor",
-  "price": 60200,
+  "price": 56700,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core ultra 9 285k",
   "brand": "Intel",
@@ -5658,7 +5658,7 @@
  {
   "name": "intel core ultra 7 270k",
   "link": "https://vishalperipherals.com/collections/processors/products/intel-core-ultra-7-270k-plus-oem-processor-24-core-24-thread-up-to-5-50ghz-36mb-cache-lga1851",
-  "price": 32700,
+  "price": 30950,
   "vendor": "Vishal Peripherals",
   "standard_name": "intel core ultra 7 270k",
   "brand": "Intel",
@@ -5770,7 +5770,7 @@
  {
   "name": "amd ryzen 5 5500",
   "link": "https://computechstore.in/product/amd-ryzen-5-5500-5th-gen-processor/",
-  "price": 9999,
+  "price": 9898,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 5 5500",
   "brand": "AMD",
@@ -5784,7 +5784,7 @@
  {
   "name": "amd ryzen 5 5600",
   "link": "https://computechstore.in/product/amd-ryzen-5-5600-desktop-processor/",
-  "price": 12974,
+  "price": 12889,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 5 5600",
   "brand": "AMD",
@@ -6134,7 +6134,7 @@
  {
   "name": "amd ryzen 9 9950x3d2",
   "link": "https://computechstore.in/product/amd-ryzen-9-9950x3d2-dual-edition-desktop-processor/",
-  "price": 92989,
+  "price": 92899,
   "vendor": "Computech Store",
   "standard_name": "amd ryzen 9 9950x3d2",
   "brand": "AMD",
@@ -9242,7 +9242,7 @@
  {
   "name": "intel core i3 10105f",
   "link": "https://mdcomputers.in/product/intel-i3-10105f-bx8070110105f-desktop-processor",
-  "price": 9140,
+  "price": 8999,
   "vendor": "MDComputers",
   "standard_name": "intel core i3 10105f",
   "brand": "Intel",
@@ -10050,5 +10050,33 @@
   "threads": 32,
   "base_clock_ghz": 3.2,
   "tdp_watt": 125
+ },
+ {
+  "name": "amd ryzen 5 7600x",
+  "link": "https://mdcomputers.in/product/amd-ryzen-5-7600x-100-100000593wof-desktop-processor",
+  "price": 17700,
+  "vendor": "MDComputers",
+  "standard_name": "amd ryzen 5 7600x",
+  "brand": "AMD",
+  "generation": "AMD 7th Generation",
+  "series": "Ryzen 5",
+  "cores": 6,
+  "threads": 12,
+  "base_clock_ghz": 4.7,
+  "tdp_watt": 105
+ },
+ {
+  "name": "intel core i5 14500",
+  "link": "https://elitehubs.com/products/intel-i5-14500-processor",
+  "price": 24999,
+  "vendor": "Elitehubs",
+  "standard_name": "intel core i5 14500",
+  "brand": "Intel",
+  "generation": "Intel 14th Generation",
+  "series": "Intel Core i5",
+  "cores": 14,
+  "threads": 20,
+  "base_clock_ghz": 2.6,
+  "tdp_watt": 65
  }
 ]
